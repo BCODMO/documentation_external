@@ -5,6 +5,14 @@ BCO-DMO is community specific data center especially for chemical and biological
 People
 ======
 We work with a highly qualified team with diverse backgrounds in science and industry
+Partners
+========
+Continued development of standards in a transparent way with other partners:
++ DataCite
++ NERC
++ IGU
+
+
 
 FAIR principles
 ===============
@@ -14,10 +22,5 @@ Accessible:
 Interoperatable:
 Reusable:
 
-Partners
-========
-Continued development of standards in a transparent way with other partners:
-+ DataCite
-+ NERC
-+ IGU
-
+The Data Life Cycle
+===================

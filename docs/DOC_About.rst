@@ -14,3 +14,10 @@ Accessible:
 Interoperatable:
 Reusable:
 
+Partners
+========
+Continued development of standards in a transparent way with other partners:
++ DataCite
++ NERC
++ IGU
+

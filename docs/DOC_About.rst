@@ -8,22 +8,21 @@ People
 ======
 We work with a highly qualified team with diverse backgrounds in science and industry
 
+Mission
+=======
+The Biological and Chemical Oceanography Data Management Office (BCO-DMO) was created to serve principal investigators funded by the National Science Foundation (NSF) Biological and Chemical Oceanography Sections and Division of Polar Programs Antarctic Organisms & Ecosystems Program as a facility where marine biogeochemical and ecological data and information developed in the course of scientific research can easily be disseminated, protected, and stored on short and intermediate time-frames.  The Data Management Office also provides research scientists and others with the tools and systems necessary to work with marine biogeochemical and ecological data from heterogeneous sources with increased efficacy. 
+
+Source: https://www.bco-dmo.org/sites/default/files/BCO-DMO_Introduction_v3.pdf
+
+History
+=======
+To accomplish this, two data management offices (former- U.S. JGOFS1 and U.S. GLOBEC2) were united in 2006 and enhanced to provide a venue for submission of electronic data and metadata and other information for open distribution via the World Wide Web
+
+
+
 Partners
 ========
 Continued development of standards in a transparent way with other partners:
 + DataCite
 + NERC
 + IGU
-
-FAIR principles
-===============
-
-Findable:
-Accessible:
-Interoperatable:
-Reusable:
-
-Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J. W., da Silva Santos, L. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., Gonzalez-Beltran, A., Gray, A. J., Groth, P., Goble, C., Grethe, J. S., Heringa, J., 't Hoen, P. A., Hooft, R., Kuhn, T., Kok, R., Kok, J., Lusher, S. J., Martone, M. E., Mons, A., Packer, A. L., Persson, B., Rocca-Serra, P., Roos, M., van Schaik, R., Sansone, S. A., Schultes, E., Sengstag, T., Slater, T., Strawn, G., Swertz, M. A., Thompson, M., van der Lei, J., van Mulligen, E., Velterop, J., Waagmeester, A., Wittenburg, P., Wolstencroft, K., Zhao, J., … Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific data, 3, 160018. doi:10.1038/sdata.2016.18
-
-The Data Life Cycle
-===================

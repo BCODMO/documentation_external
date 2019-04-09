@@ -9,12 +9,12 @@ PROPOSED STEPS:
 5. Work with Data Manager to review and validate your published data e
 
 Draft Proposed Steps for Data Contributors:
-Evaluate: Determine if BCO-DMO is the correct repository for your project and data submission
-Register: Register your project (form link): (we don’t think we need to make public the program info. If we determine that the project is part of a program, we’ll initiate it.
-Contribute: Contribute data
-Prepare: Prepare data files and metadata forms
-Submit: Email ‘info@bco-dmo’ attaching data files and forms (describe in the text how to handle big files)
-Collaborate: Work with Data Manager to publish the data and metadata (iterative - use circular graphic)
+Evaluate: Determine if BCO-DMO is the correct repository for your project and data submission 
+Register: Register your project (form link): (we don’t think we need to make public the program info. If we determine that the project is part of a program, we’ll initiate it.  
+Contribute: Contribute data  
+Prepare: Prepare data files and metadata forms  
+Submit: Email ‘info@bco-dmo’ attaching data files and forms (describe in the text how to handle big files) 
+Collaborate: Work with Data Manager to publish the data and metadata (iterative - use circular graphic) 
 Validate: Review and validate your published data… in details: After validation, you have the opportunity to create a new data version if need be....(dotted line)  (mention doi option)
 
 

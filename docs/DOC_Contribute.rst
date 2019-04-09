@@ -38,12 +38,12 @@ All datasets, projects and deployments submitted to BCO-DMO should be contribute
 
 How to Register a Project
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
-A. Complete a Project Metadata Form (.rtf) to provide information about projects that are not already registered at BCO-DMO.
-A project oversees a collection of one or more datasets.
-A project may or may not be part of a larger program.
-There is most often one project per NSF award, with the exception of Collaborative Research awards where one project is funded by multiple award numbers.
-If you do not yet know the NSF award number, please provide as much information as possible including the project title and investigator contact information.
-B. Submit the Project Metadata Form along with your NSF Data Management Plan, Deployment Metadata Form(s) (if applicable), and Dataset Metadata Form(s) to info@bco-dmo.org.
+  A. Complete a Project Metadata Form (.rtf) to provide information about projects that are not already registered at BCO-DMO. 
+    * A project oversees a collection of one or more datasets.
+    * A project may or may not be part of a larger program.
+    * There is most often one project per NSF award, with the exception of Collaborative Research awards where one project is funded by multiple award numbers.
+    * If you do not yet know the NSF award number, please provide as much information as possible including the project title and investigator contact information.
+  B. Submit the Project Metadata Form along with your NSF Data Management Plan, Deployment Metadata Form(s) (if applicable), and Dataset Metadata Form(s) to info@bco-dmo.org.
 
 How to Contribute Deployments
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

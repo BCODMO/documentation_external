@@ -65,8 +65,8 @@ Most datasets can be contributed as email attachments along with their respectiv
 If the data set is too large to contribute as an email attachment, please contact our office for instructions on the best way to contribute your data.
 B. Submit Dataset Metadata Form(s) and all data files to info@bco-dmo.org.
 
- How to Register an NSF Designated Program 
- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+How to Register an NSF Designated Program 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A. Complete a Program Metadata Form (.rtf) to describe a large coordinated research program that is not already registered at BCO-DMO.
 Programs usually encompass one or more projects.
 Examples of Programs include U.S. JGOFS, U.S. GLOBEC, U.S. OCB, and U.S. GEOTRACES.

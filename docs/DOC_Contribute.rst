@@ -1,5 +1,3 @@
-Starting all over again with reStructuredText\n
-
 Contribute data to BCO-DMO
 ===========================
 This page describes the process for contributing metadata
@@ -29,7 +27,7 @@ c. Collaborate: Work with Data Manager to publish the data and metadata (iterati
 d. Validate: Review and validate your published data… in details: After validation, you have the opportunity to create a new data version if need be....(dotted line)  (mention doi option)
 
 
-Evaluate: Determine if BCO-DMO is the correct repository for your project and data submission
+Evaluate: Is BCO-DMO is the correct repository for your project and data submission?
 ==============================================================================================
 You should contribute data to BCO-DMO if your project is funded by **NSF OCE's Biological or Chemical Oceanography Sections** or the **Division of Polar Programs' Antarctic Organisms & Ecosystems Program**.
 BCO-DMO provides data management services at no additional cost to projects funded by NSF's Division of Ocean Sciences' Biological and Chemical Oceanography Sections and the Division of Polar Programs' Antarctic Organisms & Ecosystems Program. BCO-DMO staff members work with researchers funded by these NSF programs to ensure that data and metadata contributed to tBCO-DMO are in compliance with the current NSF OCE Sample and Data Policy (May 2011 version; PDF). To contribute data to BCO-DMO, please see Section II of this page, “How to contribute data to BCO-DMO.”
@@ -61,22 +59,26 @@ B. Submit the Project Metadata Form along with your NSF Data Management Plan, De
 
 How to Contribute Deployments
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-A. Complete a Deployment Metadata Form (.rtf) to provide information about a specific cruise, mooring, laboratory, or some other unique experience of data collection or analysis.
-Complete this form if it is applicable to the dataset(s) you are submitting.
-Deployments help to describe the geographic and temporal scale of datasets.
-Deployments provide context for mapping the associated data.
-B. Submit the Deployment Metadata Form along with the Dataset Metadata Form(s) to info@bco-dmo.org.
+1. Complete a Deployment Metadata Form (.rtf) to provide information about a specific cruise, mooring, laboratory, or some other unique experience of data collection or analysis.
+
+  * Complete this form if it is applicable to the dataset(s) you are submitting.
+  * Deployments help to describe the geographic and temporal scale of datasets.
+  * Deployments provide context for mapping the associated data.
+
+2. Submit the Deployment Metadata Form along with the Dataset Metadata Form(s) to info@bco-dmo.org.
 
 How to Contribute Data
 ~~~~~~~~~~~~~~~~~~~~~~~
 A. Complete a Dataset Metadata Form (.rtf) along with your data to provide information about each unique dataset collected within a project.
-A Dataset Metadata Form should be completed for each dataset contributed to BCO-DMO.
-Please send us your processed data when pertaining to acoustics, CTDs, and ADCPs.
-We accept data in any format, but comma- or tab-delimited (preferred) ASCII files or Excel spreadsheets are most common
-If contributing data as an Excel file, please see our tips for submitting data in a spreadsheet.
-Sequence accession numbers and the associated data can be contributed to BCO-DMO and we can provide links to the sequence repository (such as NCBI's GenBank). Please see "Contributing Sequence Accession Numbers" for more information.
-Most datasets can be contributed as email attachments along with their respective completed Dataset Metadata Form.
-If the data set is too large to contribute as an email attachment, please contact our office for instructions on the best way to contribute your data.
+
+  * A Dataset Metadata Form should be completed for each dataset contributed to BCO-DMO.
+  * Please send us your processed data when pertaining to acoustics, CTDs, and ADCPs.
+  * We accept data in any format, but comma- or tab-delimited (preferred) ASCII files or Excel spreadsheets are most common
+  * If contributing data as an Excel file, please see our tips for submitting data in a spreadsheet.
+  * Sequence accession numbers and the associated data can be contributed to BCO-DMO and we can provide links to the sequence repository (such as NCBI's GenBank). Please see "Contributing Sequence Accession Numbers" for more information.
+  * Most datasets can be contributed as email attachments along with their respective completed Dataset Metadata Form.
+  * If the data set is too large to contribute as an email attachment, please contact our office for instructions on the best way to contribute your data.
+
 B. Submit Dataset Metadata Form(s) and all data files to info@bco-dmo.org.
 
 How to Register an NSF Designated Program

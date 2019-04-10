@@ -1,4 +1,13 @@
-This page describes the process for contributing metadata and data from appropriate NSF OCE funded projects to the BCO-DMO data system. If you would like to discuss management of data associated with an existing or proposed project, please contact us (info@bco-dmo.org). For funded projects, please be prepared to provide your NSF OCE award number.
+Starting all over again with reStructuredText\n
+
+Contribute data to BCO-DMO
+===========================
+This page describes the process for contributing metadata
+and data from appropriate NSF OCE funded projects to the BCO-DMO data system.
+
+If you would like to discuss management of data associated with an existing or
+proposed project, please contact us (info@bco-dmo.org). For funded projects, please
+be prepared to provide your NSF OCE award number.
 
 PROPOSED STEPS:
 
@@ -9,12 +18,14 @@ PROPOSED STEPS:
 5. Work with Data Manager to review and validate your published data e
 
 Draft Proposed Steps for Data Contributors:
-1. Evaluate: Determine if BCO-DMO is the correct repository for your project and data submission 
-2. Register: Register your project (form link): (we don’t think we need to make public the program info. If we determine that the project is part of a program, we’ll initiate it.  
-3. Contribute: Contribute data  
-a. Prepare: Prepare data files and metadata forms  
-b. Submit: Email ‘info@bco-dmo’ attaching data files and forms (describe in the text how to handle big files) 
-c. Collaborate: Work with Data Manager to publish the data and metadata (iterative - use circular graphic) 
+
+1. Evaluate: Determine if BCO-DMO is the correct repository for your project and data submission
+2. Register: Register your project (form link): (we don’t think we need to make public the program info. If we determine that the project is part of a program, we’ll initiate it.
+3. Contribute: Contribute data
+
+a. Prepare: Prepare data files and metadata forms
+b. Submit: Email ‘info@bco-dmo’ attaching data files and forms (describe in the text how to handle big files)
+c. Collaborate: Work with Data Manager to publish the data and metadata (iterative - use circular graphic)
 d. Validate: Review and validate your published data… in details: After validation, you have the opportunity to create a new data version if need be....(dotted line)  (mention doi option)
 
 
@@ -25,7 +36,8 @@ BCO-DMO provides data management services at no additional cost to projects fund
 
 **Other suggested data management centers (if your project is not funded by an NSF section that BCO-DMO serves):**
 Not all NSF funded projects are supported free of charge by BCO-DMO. Some other recommended data centers include:
-* For NSF-sponsored Physical Oceanography projects, investigators are encouraged to contact the CLIVAR and Carbon Hydrographic Data Office (CCHDO) or archive their data directly with the National Centers for Environmental Information (NCEI). 
+
+* For NSF-sponsored Physical Oceanography projects, investigators are encouraged to contact the CLIVAR and Carbon Hydrographic Data Office (CCHDO) or archive their data directly with the National Centers for Environmental Information (NCEI).
 * For marine geology, contact the Interdisciplinary Earth Data Alliance  (IEDA) group hosted at Lamont-Doherty Earth Observatory, Columbia University.
 * For projects supported by NSF Arctic Sciences Program (ARC) investigators, the Arctic Data Center which succeeds the Advanced Cooperative Arctic Data and Information Service (ACADIS), should be contacted. The Arctic Data Center is supported by NSF and is led by the National Center for Ecological Analysis and Synthesis (NCEAS) at the University of California Santa Barbara, to develop and curate the NSF Arctic Data Center, an archive for Arctic scientific data as well as other related research documents.
 * Gulf of Mexico Research Initiative (GoMRI) funded projects can submit data to their regional GoMRI location. See https://data.gulfresearchinitiative.org/about for additional information including their data management plan under the "Design and Management" menu option.
@@ -37,13 +49,15 @@ Prepare: Prepare data files and metadata forms
 All datasets, projects and deployments submitted to BCO-DMO should be contributed along with the appropriate metadata forms. Forms are Rich Text Format (.rtf) files that are compatible with any word processing application. A description and download link to each form can be found below.
 
 How to Register a Project
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
-  A. Complete a Project Metadata Form (.rtf) to provide information about projects that are not already registered at BCO-DMO. 
-    * A project oversees a collection of one or more datasets.
-    * A project may or may not be part of a larger program.
-    * There is most often one project per NSF award, with the exception of Collaborative Research awards where one project is funded by multiple award numbers.
-    * If you do not yet know the NSF award number, please provide as much information as possible including the project title and investigator contact information.
-  B. Submit the Project Metadata Form along with your NSF Data Management Plan, Deployment Metadata Form(s) (if applicable), and Dataset Metadata Form(s) to info@bco-dmo.org.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A. Complete a Project Metadata Form (.rtf) to provide information about projects that are not already registered at BCO-DMO.
+
+  * A project oversees a collection of one or more datasets.
+  * A project may or may not be part of a larger program.
+  * There is most often one project per NSF award, with the exception of Collaborative Research awards where one project is funded by multiple award numbers.
+  * If you do not yet know the NSF award number, please provide as much information as possible including the project title and investigator contact information.
+
+B. Submit the Project Metadata Form along with your NSF Data Management Plan, Deployment Metadata Form(s) (if applicable), and Dataset Metadata Form(s) to info@bco-dmo.org.
 
 How to Contribute Deployments
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -65,7 +79,7 @@ Most datasets can be contributed as email attachments along with their respectiv
 If the data set is too large to contribute as an email attachment, please contact our office for instructions on the best way to contribute your data.
 B. Submit Dataset Metadata Form(s) and all data files to info@bco-dmo.org.
 
-How to Register an NSF Designated Program 
+How to Register an NSF Designated Program
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 A. Complete a Program Metadata Form (.rtf) to describe a large coordinated research program that is not already registered at BCO-DMO.
 Programs usually encompass one or more projects.
@@ -78,7 +92,3 @@ What happens next?
 After we receive your data and metadata, a data manager will begin the process of making the data available online. Data managers may contact you with follow-up questions or to obtain feedback. You'll be asked to review the data and metadata for completeness and accuracy.
 After the data are online and fully documented, our office will ensure that the data are archived properly at the appropriate National Data Center (e.g. National Centers for Environmental Information, NCEI). We have developed a partial list of National Data Centers where data managed by BCO-DMO are sent for long-term archive.
 Please see our Frequently Asked Questions page for additional information about BCO-DMO.
-
-
-
-

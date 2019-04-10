@@ -1,7 +1,7 @@
 {
     "diffEditor.ignoreTrimWhitespace": false,
     "files.trimTrailingWhitespace": true,
-    "restructuredtext.confPath": ""
+    "restructuredtext.confPath": "",
     "restructuredtext.linter.extraArgs": [
         "--ignore D002",
         "--ignore D004",

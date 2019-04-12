@@ -86,6 +86,7 @@ How to Register an NSF Designated Program
 A. Complete a Program Metadata Form (.rtf) to describe a large coordinated research program that is not already registered at BCO-DMO.
 Programs usually encompass one or more projects.
 Examples of Programs include U.S. JGOFS, U.S. GLOBEC, U.S. OCB, and U.S. GEOTRACES.
+
 B. Submit the Program Metadata Form along with your NSF Data Management Plan, Project Metadata Form, Deployment Metadata Form(s) (if applicable), and Dataset Metadata Form(s) to info@bco-dmo.org.
 
 

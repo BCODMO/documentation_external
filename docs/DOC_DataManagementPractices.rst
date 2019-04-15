@@ -13,11 +13,6 @@ The Data Life Cycle
 ===================
 
 
-
-
-
-
-
 How should my data look like?
 ===============================
 The lay-out of the data depensd on the genereal structure of that data

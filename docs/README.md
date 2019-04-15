@@ -3,7 +3,7 @@ The purpose of this folder is to contain all the documentation that can be read 
 The versioning is done by GIT, GitHub hosts the files. The files need to be written in reStructured Text. 
 The documentation structure is build by Sphinx and ReadTheDocs have a webhook that update their page that hosts these pages. 
 
-# Structure:
+# File structure and naming
 All files containing information seen by the end user start with DOC_*.rst. 
 Other files that are necessray for Sphinx:
 

@@ -1,16 +1,35 @@
 BCO-DMO documentation
 ======================
+.. toctree::
+   :maxdepth: 2
+   :caption: About BCO-DMO
+
+   DOC_About
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
+   :caption: Data Management Plan
 
-   docs/DOC_About.rst
-   Introduction to BCO-DMO <docs/DOC_About>
-   Contributing data <DOC_Contribute>
-   Accessing data <DOC_Access-datatypes>
-   Data Management Plan <DOC_DataManagementPlan>
-   Good Data Management Practices <DOC_DataManagementPractices>
+   DOC_DataManagementPlan
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Access Data
+
+   DOC_Access-Data
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contribute Data
+
+   DOC_Contribute
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Good Data Management
+
+   DOC_DataManagementPractices
+
 
 
 

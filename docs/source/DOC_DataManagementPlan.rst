@@ -19,11 +19,11 @@ requirements. The template can be found and completed on the DMPTool website.
 About DMPTool
 =============
 
-.. image:: build/html/_static/pic_logo_dmptool.PNG
+.. image:: nstatic/pic_logo_dmptool.PNG
    :width: 400px
    :height: 100px
    :scale: 100 %
-   :alt: alternate text
+   :alt: This is text
    :align: center
 
 `DMPTool`_ is a free, open-source, online application that helps

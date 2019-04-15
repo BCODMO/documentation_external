@@ -10,7 +10,6 @@ Investigators working under awards granted by the NSF Division of Ocean Sciences
 (OCE) have additional conditions to which they must adhere, as described in
 the `Division of Ocean Sciences Sample and Data Policy`_.
 
-
 How BCO-DMO can help
 ====================
 BCO-DMO has developed a Data Management Plan template to assist investigators
@@ -19,6 +18,14 @@ requirements. The template can be found and completed on the DMPTool website.
 
 About DMPTool
 =============
+
+.. image:: build/html/_static/pic_dmptool_logo.PNG
+   :width: 400px
+   :height: 100px
+   :scale: 100 %
+   :alt: alternate text
+   :align: center
+
 `DMPTool`_ is a free, open-source, online application that helps
 researchers create data management plans. The DMPTool provides detailed
 guidance and links to informational resources and walks researchers through

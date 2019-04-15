@@ -16,8 +16,7 @@ documentation_external (repo)
 > > |- conf.py : Customization of Sphinx  
 > > |- *Makefile* : Interface local development, do not touch  
 > > |- *make.bat* : Interface local development, do not touch  
-> > |- _build : output files go in here  
-> > |- _static : include statice files like images  
-> > |- _templates : Override Sphinx templates to customise look and feel  
-> > |- **support.rst**  : Own documentation  
+> > |- build : output files go in here  
+> > |- static : include statice files like images  
+> > |- templates : Override Sphinx templates to customise look and feel  
 > > |- **DOC_*.rst**  : Own documentation  

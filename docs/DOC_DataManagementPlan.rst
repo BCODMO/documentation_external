@@ -19,7 +19,7 @@ requirements. The template can be found and completed on the DMPTool website.
 About DMPTool
 =============
 
-.. image:: build/html/_static/pic_dmptool_logo.PNG
+.. image:: build/html/_static/pic_logo_dmptool.PNG
    :width: 400px
    :height: 100px
    :scale: 100 %

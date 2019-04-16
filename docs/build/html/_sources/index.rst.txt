@@ -8,7 +8,7 @@ BCO-DMO documentation
 
 .. toctree::
    :maxdepth: 2
-   :caption: Data Management: Why?
+   :caption: Why Data Management?
 
    DOC_DM_Philosophy
 
@@ -20,13 +20,13 @@ BCO-DMO documentation
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contribute Data
+   :caption: Contributing Data
 
    DOC_Contribute
 
 .. toctree::
    :maxdepth: 2
-   :caption: Access Data
+   :caption: Accessing Data
 
    DOC_Access-Data
 

@@ -73,7 +73,7 @@ A. An NSF designated program describes a large coordinated research program, whi
    encompass one or more projects. Examples of such programs include U.S. JGOFS, GLOBEC, U.S. OCB and GEOTRACES.
    They are different from the NSF Programs Biological Oceanography and Chemical Oceanography.
 
-B. Complete a :download:`Program Metadata Form <>` (.rtf) for a program that is not already registered at BCO-DMO.
+B. Complete a :download:`Program Metadata Form <https://www.bco-dmo.org/files/bcodmo//PROGRAM.rtf>` (.rtf) for a program that is not already registered at BCO-DMO.
 
 C. Mail your **NSF Data Management Plan**, **Project Metadata Form** and **Program Metadata Form** to
    to info@bco-dmo.org.
@@ -87,7 +87,7 @@ to BCO-DMO should be contributed along with the appropriate metadata forms.
 
 Data
 ~~~~
-A. Complete a Dataset Metadata Form (.rtf) along with your data to provide information about each unique
+A. Complete a :download:`Dataset Metadata Form <https://www.bco-dmo.org/files/bcodmo//DATASET.rtf>` (.rtf) along with your data to provide information about each unique
 dataset collected within a project.
 
 * A Dataset Metadata Form should be completed for each dataset contributed to BCO-DMO.
@@ -102,7 +102,7 @@ dataset collected within a project.
 Deployment
 ~~~~~~~~~~~
 If data were collected from a research vessel, mooring, glider, or other unique deployment,
-complete a :download:`Deployment Metadata Form <nstatic/Deployment.rtf>` (.rtf)
+complete a :download:`Deployment Metadata Form <https://www.bco-dmo.org/files/bcodmo//DEPLOYMENT.rtf>` (.rtf)
 
 * Complete this form if it is applicable to the dataset(s) you are submitting.
 * Deployments help to describe the geographic and temporal scale of datasets and provide

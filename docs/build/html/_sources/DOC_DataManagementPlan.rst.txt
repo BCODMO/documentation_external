@@ -1,6 +1,8 @@
 
 Data Management Plan?
 =====================
+Like everything, good data management starts with a plan before the start of that project.
+
 Proposals submitted to NSF must include a supplementary document of no more
 than two pages labeled “Data Management Plan” (DMP). This supplementary
 document should describe how the proposal will conform to NSF’s policy

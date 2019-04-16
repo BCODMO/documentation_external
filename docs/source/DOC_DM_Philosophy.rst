@@ -54,22 +54,24 @@ scientific data management and stewardship. Scientific data, 3, 160018.
 doi:10.1038/sdata.2016.18*
 
 
+Unique Identifiers
+==================
 
-DOI and ORCID
-==============
+ORCID, DOI (handle) and CITATIONS
+https://guides.lib.berkeley.edu/c.php?g=4385&p=3078010
 
-Data Publication
+Publishing data
 =================
 * BCO-DMO publishes data and metadata, fostering data discoverability, access, reuse and attribution.
 * A DOI is generated for every dataset and will be assigned for all submissions. All datasets must be final
   and validated before a DOI is assigned.
-* We provide a recommended citation, so that users can proberly cite each dataset.
-* All datasets available at BCO-DMO are licensed under a Creative Commons Attribution 4.0 International
-  License, ensuring that each data contributor will receive proper credit.
+* We provide a recommended **citation**, so that users can proberly cite each dataset.
+* All datasets available at BCO-DMO are licensed under a **Creative Commons Attribution 4.0 International
+  License**, ensuring that each data contributor will receive proper credit.
 * Every DOI is minted for archive by the WHOI Open Access Server (WHOAS), and resolve to WHOAS landing
   pages
 
-Data preservation
+Preserving data
 ==================
 Preservation marks a maturity level that allows to begin the data life cycle again in new research endeavors.
 BCO-DMO serves as a domain specific, intermediate data repository, and as such does not function as a long-term

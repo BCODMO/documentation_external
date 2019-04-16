@@ -72,13 +72,13 @@ to each form can be found below.
 Deployments
 ~~~~~~~~~~~
 1. Complete a `Deployment Metadata Form`_ (.rtf) here is a pdf file :download:`pdf <docs/metadata/Deployment.rtf` to provide information about a specific cruise, mooring, laboratory, or some
-other unique experience of data collection or analysis. :download:`An Example Pypi Project<docs/metadata/Deployment.rtf>`
+other unique experience of data collection or analysis. :download:`An Example Pypi Project </docs/metadata/Deployment.rtf>`
 
   * Complete this form if it is applicable to the dataset(s) you are submitting.
   * Deployments help to describe the geographic and temporal scale of datasets.
   * Deployments provide context for mapping the associated data.
 
-
+.. _Deployment Metadata Form: nstatic/Deployment.rtf
 
 Data
 ~~~~
@@ -113,7 +113,3 @@ Validate
 ========
 Once your datasets are online, you will be asked to review the data and metadata for completeness and accuracy.
 This validation stage is the final step in the process, and necessary for assignment of a DOI and long-term archive.
-
-
-
-.. _Deployment Metadata Form: docs/metadata/Deployment.rtf

@@ -2,10 +2,20 @@
 This page describes the process for contributing metadata
 and data from appropriate NSF OCE funded projects to the BCO-DMO data system.
 
+Forms are Rich Text Format (.rtf) files that are compatible with any word processing application.
+A description and download link to each form can be found below.
+
 If you would like to discuss management of data associated with an existing or
 proposed project, please contact us (info@bco-dmo.org). For funded projects, please
 be prepared to provide your NSF OCE award number.
 
+
+.. image:: nstatic/pic_steps_contribute.PNG
+   :width: 400px
+   :height: 225px
+   :scale: 100 %
+   :alt: This is text
+   :align: center
 
 
 Evaluate
@@ -41,44 +51,55 @@ BCO-DMO serves:
 
 Register
 ========
-A (collaborative) project
+(Collaborative) Project
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
-A. Complete a Project Metadata Form (.rtf) to provide information about projects that are not already registered at BCO-DMO.
+A. Search BCO-DMO to see if your award is already in our system. If not:
+
+B. Complete a :download:`Project Metadata Form <nstatic/Project.rtf>` (.rtf) to provide information about
+   projects that are not already registered at BCO-DMO.
 
   * A project oversees a collection of one or more datasets.
-  * A project may or may not be part of a larger program.
-  * There is most often one project per NSF award, with the exception of Collaborative Research awards where one project is funded by multiple award numbers.
-  * If you do not yet know the NSF award number, please provide as much information as possible including the project title and investigator contact information.
+  * There is usually one project per NSF award with the exception of Collaborative Research award
+    where one project is funded by multiple award numbers. Some time-series projects may contain
+    multiple awards as well.
+  * If you do not yet know the NSF award number, please provide as much information as possible
+    including the project title and investigator contact information.
 
-B. Submit the Project Metadata Form along with your NSF Data Management Plan, Deployment Metadata Form(s) (if applicable), and Dataset Metadata Form(s) to info@bco-dmo.org.
+C. Mail your **NSF Data Management Plan** with the **Project Metadata From** to info@bco-dmo.org.
 
-An NSF designated program
+NSF Designated Program
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-A. Complete a Program Metadata Form (.rtf) to describe a large coordinated research program that is not already registered at BCO-DMO.
-Programs usually encompass one or more projects.
-Examples of Programs include U.S. JGOFS, U.S. GLOBEC, U.S. OCB, and U.S. GEOTRACES.
+A. An NSF designated program describes a large coordinated research program. Such programs usually encompass
+   one or more projects. Examples of such programs include U.S. JGOFS, GLOBEC, U.S. OCB and GEOTRACES. They are not
+   the same as the NSF Programs Biological Oceanography and Chemical Oceanography.
 
-B. Submit the Program Metadata Form along with your NSF Data Management Plan, Project Metadata Form, Deployment Metadata Form(s) (if applicable), and Dataset Metadata Form(s) to info@bco-dmo.org.
+B. Complete a :download:`Program Metadata Form <>` (.rtf) for a program that is not already registered at BCO-DMO.
+
+C. Mail your **NSF Data Management Plan**, **Project Metadata Form** and **Program Metadata Form** to
+   to info@bco-dmo.org.
 
 
 
 Prepare
 =======
-Prepare your data files. All datasets, projects and deployments submitted to BCO-DMO should be contributed along with the appropriate metadata forms.
-Forms are Rich Text Format (.rtf) files that are compatible with any word processing application. A description and download link
-to each form can be found below.
+Prepare your data files. All datasets, projects and deployments submitted to BCO-DMO should be contributed
+along with the appropriate metadata forms.
+
 
 
 Deployments
 ~~~~~~~~~~~
-1. Complete a Deployment Metadata Form (.rtf) to provide information about a specific cruise, mooring, laboratory, or some
-other unique experience of data collection or analysis.
+1. Complete a :download:`Deployment Metadata Form <nstatic/Deployment.rtf>` (.rtf)
+   to provide information about a specific cruise, mooring, laboratory, or some
+   other unique experience of data collection or
+
+
 
   * Complete this form if it is applicable to the dataset(s) you are submitting.
   * Deployments help to describe the geographic and temporal scale of datasets.
   * Deployments provide context for mapping the associated data.
 
-2. Submit the Deployment Metadata Form along with the Dataset Metadata Form(s) to info@bco-dmo.org.
+
 
 Data
 ~~~~
@@ -93,12 +114,12 @@ dataset collected within a project.
   * Most datasets can be contributed as email attachments along with their respective completed Dataset Metadata Form.
   * If the data set is too large to contribute as an email attachment, please contact our office for instructions on the best way to contribute your data.
 
-B. Submit Dataset Metadata Form(s) and all data files to info@bco-dmo.org.
+
 
 Submit
 =======
-
-
+B. Submit Dataset Metadata Form(s) and all data files to info@bco-dmo.org.
+2. Submit the Deployment Metadata Form along with the Dataset Metadata Form(s) to info@bco-dmo.org.
 
 
 Collaborate

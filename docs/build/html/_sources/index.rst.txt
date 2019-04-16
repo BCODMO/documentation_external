@@ -14,15 +14,15 @@ BCO-DMO documentation
 
 .. toctree::
    :maxdepth: 2
-   :caption: Access Data
-
-   DOC_Access-Data
-
-.. toctree::
-   :maxdepth: 2
    :caption: Contribute Data
 
    DOC_Contribute
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Access Data
+
+   DOC_Access-Data
 
 .. toctree::
    :maxdepth: 2

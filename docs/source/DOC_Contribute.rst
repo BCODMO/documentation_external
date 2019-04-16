@@ -69,7 +69,7 @@ C. Mail your **NSF Data Management Plan** with the **Project Metadata From** to 
 
 NSF Designated Program
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-A. An NSF designated program describes a large coordinated research program. Such programs usually
+A. An NSF designated program describes a large coordinated research program, which usually
    encompass one or more projects. Examples of such programs include U.S. JGOFS, GLOBEC, U.S. OCB and GEOTRACES.
    They are different from the NSF Programs Biological Oceanography and Chemical Oceanography.
 
@@ -90,13 +90,13 @@ Data
 A. Complete a Dataset Metadata Form (.rtf) along with your data to provide information about each unique
 dataset collected within a project.
 
-  * A Dataset Metadata Form should be completed for each dataset contributed to BCO-DMO.
-  * Please send us your processed data when pertaining to acoustics, CTDs, and ADCPs.
-  * We accept data in any format, but comma- or tab-delimited (preferred) ASCII files or Excel spreadsheets are most common
-  * If contributing data as an Excel file, please see our tips for submitting data in a spreadsheet.
-  * Sequence accession numbers and the associated data can be contributed to BCO-DMO and we can provide links to the sequence repository (such as NCBI's GenBank). Please see "Contributing Sequence Accession Numbers" for more information.
-  * Most datasets can be contributed as email attachments along with their respective completed Dataset Metadata Form.
-  * If the data set is too large to contribute as an email attachment, please contact our office for instructions on the best way to contribute your data.
+* A Dataset Metadata Form should be completed for each dataset contributed to BCO-DMO.
+* Please send us your processed data when pertaining to acoustics, CTDs, and ADCPs.
+* We accept data in any format, but comma- or tab-delimited (preferred) ASCII files or Excel spreadsheets are most common
+* If contributing data as an Excel file, please see our tips for submitting data in a spreadsheet.
+* Sequence accession numbers and the associated data can be contributed to BCO-DMO and we can provide links to the sequence repository (such as NCBI's GenBank). Please see "Contributing Sequence Accession Numbers" for more information.
+* Most datasets can be contributed as email attachments along with their respective completed Dataset Metadata Form.
+* If the data set is too large to contribute as an email attachment, please contact our office for instructions on the best way to contribute your data.
 
 
 Deployment
@@ -104,12 +104,12 @@ Deployment
 If data were collected from a research vessel, mooring, glider, or other unique deployment,
 complete a :download:`Deployment Metadata Form <nstatic/Deployment.rtf>` (.rtf)
 
-  * Complete this form if it is applicable to the dataset(s) you are submitting.
-  * Deployments help to describe the geographic and temporal scale of datasets and provide
-    context for mapping the associated data.
-  * The Rolling Deck to Repository, R2R provides cruise data for vessels in the UNOLS fleet.
-    For data on these cruises, you need only reference the R2R cruise identifier and BCO-DMO
-    does the rest
+* Complete this form if it is applicable to the dataset(s) you are submitting.
+* Deployments help to describe the geographic and temporal scale of datasets and provide
+  context for mapping the associated data.
+* The Rolling Deck to Repository, R2R provides cruise data for vessels in the UNOLS fleet.
+  For data on these cruises, you need only reference the R2R cruise identifier and BCO-DMO
+  does the rest
 
 
 
@@ -117,13 +117,13 @@ Submit
 =======
 Send applicable metadata forms and data files to info@bco-dmo.org
 
-  * You will receive a reply from one of our Data Managers confirming receipt of
-    your forms and data files, if applicable
-  * If a data set is too large to send as an email attachment, please contact us for
-    instructions on the best way to contribute your data.
-  * NOTE: We strongly encourage you to submit data at  least one month in advance of
-    any pressing deadlines (e.g. NSF reports, manuscript publication) to provide adequate
-    data processing time.
+* You will receive a reply from one of our Data Managers confirming receipt of
+  your forms and data files, if applicable
+* If a data set is too large to send as an email attachment, please contact us for
+  instructions on the best way to contribute your data.
+* NOTE: We strongly encourage you to submit data at  least one month in advance of
+  any pressing deadlines (e.g. NSF reports, manuscript publication) to provide adequate
+  data processing time.
 
 
 Collaborate

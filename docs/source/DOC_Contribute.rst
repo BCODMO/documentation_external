@@ -55,7 +55,7 @@ Register
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 A. Search BCO-DMO to see if your award is already in our system. If not:
 
-B. Complete a :download:`Project Metadata Form <nstatic/Project.rtf>` (.rtf) to provide information about
+B. Complete a :download:`Project Metadata Form <https://www.bco-dmo.org/files/bcodmo//PROJECT.rtf>` (.rtf) to provide information about
    projects that are not already registered at BCO-DMO.
 
   * A project oversees a collection of one or more datasets.

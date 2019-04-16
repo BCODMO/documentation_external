@@ -40,7 +40,7 @@ which have gained significant attention within the data management landscape ove
 principles outline tangible practices data providers can employ to promote easier sharing and ultimate reuse
 of data by both machines and humans, thereby making them **"Findable, Accessible, Interoperable and Reusable"**.
 
-Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M.,
+*Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M.,
 Baak, A., Blomberg, N., Boiten, J. W., da Silva Santos, L. B., Bourne, P. E.,
 Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O.,
 Edmunds, S., Evelo, C. T., Finkers, R., Gonzalez-Beltran, A., Gray, A. J.,
@@ -51,9 +51,29 @@ Schultes, E., Sengstag, T., Slater, T., Strawn, G., Swertz, M. A., Thompson, M.,
 van der Lei, J., van Mulligen, E., Velterop, J., Waagmeester, A., Wittenburg, P.,
 Wolstencroft, K., Zhao, J., … Mons, B. (2016). The FAIR Guiding Principles for
 scientific data management and stewardship. Scientific data, 3, 160018.
-doi:10.1038/sdata.2016.18
+doi:10.1038/sdata.2016.18*
 
 
 
 DOI and ORCID
 ==============
+
+Data Publication
+=================
+* BCO-DMO publishes data and metadata, fostering data discoverability, access, reuse and attribution.
+* A DOI is generated for every dataset and will be assigned for all submissions. All datasets must be final
+  and validated before a DOI is assigned.
+* We provide a recommended citation, so that users can proberly cite each dataset.
+* All datasets available at BCO-DMO are licensed under a Creative Commons Attribution 4.0 International
+  License, ensuring that each data contributor will receive proper credit.
+* Every DOI is minted for archive by the WHOI Open Access Server (WHOAS), and resolve to WHOAS landing
+  pages
+
+Data preservation
+==================
+Preservation marks a maturity level that allows to begin the data life cycle again in new research endeavors.
+BCO-DMO serves as a domain specific, intermediate data repository, and as such does not function as a long-term
+archive for data preservation. BCO-DMO provides data management support throughout the period of performance
+of a project award, which prepares project output for reuse and reanalysis by the community. Once a project data
+and metadata are published online at BCO-CMO, they are then submitted to an appropriate national data center
+for long-term preservation (e.g. the National Centers for Environmental Information).

@@ -31,7 +31,11 @@ BCO-DMO documentation
    DOC_DM_Philosophy
    DOC_DM_BestPractices
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Infrastructure
 
+   DOC_Technology
 
 
 

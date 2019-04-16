@@ -8,6 +8,12 @@ BCO-DMO documentation
 
 .. toctree::
    :maxdepth: 2
+   :caption: Data Management: Why?
+
+   DOC_DM_Philosophy
+
+.. toctree::
+   :maxdepth: 2
    :caption: Data Management Plan
 
    DOC_DataManagementPlan
@@ -26,14 +32,13 @@ BCO-DMO documentation
 
 .. toctree::
    :maxdepth: 2
-   :caption: Good Data Management
+   :caption: Organising Data
 
-   DOC_DM_Philosophy
    DOC_DM_BestPractices
 
 .. toctree::
    :maxdepth: 2
-   :caption: Infrastructure
+   :caption: Behind the scenes
 
    DOC_Technology
 

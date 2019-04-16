@@ -1,1 +1,4 @@
-Describing the the technical infrastructure that BCO-DMO is based on
+Technical infrastructure
+==========================
+
+The existence of BCO-DMO falls or rises with the technical infrastructure.

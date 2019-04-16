@@ -51,3 +51,18 @@ Continued development of standards in a transparent way with other partners:
 + DataCite
 + NERC
 + IGU
+
+Services
+========
+BCO-DMO procides the following services:
+
+* **Proposal**: help with your NSF Data Management Plan
+* **Acquisition**: Advice on collecting good metadata and data
+* **Contribution**: Submission to the database, ensuring compliance with the NSF
+  OCE Sample and Data Policy. One-on-one assistance with your data Submission
+* **Data publication**: Datasets are published online at BCO-DMO, citations in just one click, DOI
+* **Discovery and Access**: BCO-DMO search tools
+* **Data use and Reuse**: Data are freely accessible, many types of data are available
+  for new and collaborative research/modelling/synthesis projects.
+* **Preservation**: BCO-DMO works with the appropriate national data center for
+  long-term archiving

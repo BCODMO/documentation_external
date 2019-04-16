@@ -10,14 +10,6 @@ proposed project, please contact us (info@bco-dmo.org). For funded projects, ple
 be prepared to provide your NSF OCE award number.
 
 
-.. image:: nstatic/pic_steps_contribute.PNG
-   :width: 400px
-   :height: 225px
-   :scale: 100 %
-   :alt: This is text
-   :align: center
-
-
 Evaluate
 ========
 Is BCO-DMO the right repository for you? BCO-DMO provides data management services at no additional cost to projects funded
@@ -48,6 +40,14 @@ BCO-DMO serves:
 * **OCB research community**: Guidance to OCB scientists who are uncertain where to submit or propose to
   submit their data is available from the OCB website.
 
+Once decided that BCO-DMO is the appropriate repository, you can start contributing following these steps:
+
+.. image:: nstatic/pic_steps_contribute.PNG
+   :width: 400px
+   :height: 225px
+   :scale: 100 %
+   :alt: This is text
+   :align: center
 
 Register
 ========
@@ -69,9 +69,9 @@ C. Mail your **NSF Data Management Plan** with the **Project Metadata From** to 
 
 NSF Designated Program
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-A. An NSF designated program describes a large coordinated research program. Such programs usually encompass
-   one or more projects. Examples of such programs include U.S. JGOFS, GLOBEC, U.S. OCB and GEOTRACES. They are not
-   the same as the NSF Programs Biological Oceanography and Chemical Oceanography.
+A. An NSF designated program describes a large coordinated research program. Such programs usually
+   encompass one or more projects. Examples of such programs include U.S. JGOFS, GLOBEC, U.S. OCB and GEOTRACES.
+   They are different from the NSF Programs Biological Oceanography and Chemical Oceanography.
 
 B. Complete a :download:`Program Metadata Form <>` (.rtf) for a program that is not already registered at BCO-DMO.
 
@@ -82,24 +82,8 @@ C. Mail your **NSF Data Management Plan**, **Project Metadata Form** and **Progr
 
 Prepare
 =======
-Prepare your data files. All datasets, projects and deployments submitted to BCO-DMO should be contributed
-along with the appropriate metadata forms.
-
-
-
-Deployments
-~~~~~~~~~~~
-1. Complete a :download:`Deployment Metadata Form <nstatic/Deployment.rtf>` (.rtf)
-   to provide information about a specific cruise, mooring, laboratory, or some
-   other unique experience of data collection or
-
-
-
-  * Complete this form if it is applicable to the dataset(s) you are submitting.
-  * Deployments help to describe the geographic and temporal scale of datasets.
-  * Deployments provide context for mapping the associated data.
-
-
+Prepare your data files when they are ready to be submitted. All datasets, projects and deployments submitted
+to BCO-DMO should be contributed along with the appropriate metadata forms.
 
 Data
 ~~~~
@@ -115,22 +99,49 @@ dataset collected within a project.
   * If the data set is too large to contribute as an email attachment, please contact our office for instructions on the best way to contribute your data.
 
 
+Deployment
+~~~~~~~~~~~
+If data were collected from a research vessel, mooring, glider, or other unique deployment,
+complete a :download:`Deployment Metadata Form <nstatic/Deployment.rtf>` (.rtf)
+
+  * Complete this form if it is applicable to the dataset(s) you are submitting.
+  * Deployments help to describe the geographic and temporal scale of datasets and provide
+    context for mapping the associated data.
+  * The Rolling Deck to Repository, R2R provides cruise data for vessels in the UNOLS fleet.
+    For data on these cruises, you need only reference the R2R cruise identifier and BCO-DMO
+    does the rest
+
+
 
 Submit
 =======
-B. Submit Dataset Metadata Form(s) and all data files to info@bco-dmo.org.
-2. Submit the Deployment Metadata Form along with the Dataset Metadata Form(s) to info@bco-dmo.org.
+Send applicable metadata forms and data files to info@bco-dmo.org
+
+  * You will receive a reply from one of our Data Managers confirming receipt of
+    your forms and data files, if applicable
+  * If a data set is too large to send as an email attachment, please contact us for
+    instructions on the best way to contribute your data.
+  * NOTE: We strongly encourage you to submit data at  least one month in advance of
+    any pressing deadlines (e.g. NSF reports, manuscript publication) to provide adequate
+    data processing time.
 
 
 Collaborate
 ===========
-After we receive your data and metadata, a data manager will begin the process of making the data available online. Data managers may
-contact you with follow-up questions or to obtain feedback. We strive to develop robust metadata that will ensure the data are easily
-discoverable and reusable. Your Data Manager will contact you with follow-up questions or requests for more information to ensure that the
-metadata is complete. This may be an itirative process, so your patience and cooperation are greatly appreciated.
+After we receive your data and metadata, a data manager will begin the process of
+making the data available online. We strive to develop **robust metadata** that will
+ensure the data are easily **discoverable and reusable**.
+
+Your Data Manager will contact you with **follow-up questions or requests** for
+more information to ensure that the metadata is complete. This may be an itirative process,
+so your patience and cooperation are greatly appreciated.
 
 
 Validate
 ========
-Once your datasets are online, you will be asked to review the data and metadata for completeness and accuracy.
-This validation stage is the final step in the process, and necessary for assignment of a DOI and long-term archive.
+Once your datasets are online, you will be asked to review the data and metadata
+for completeness and accuracy. This validation stage is the final step in the process,
+and necessary for assignment of a **DOI** and **long-term archive**.
+
+Once datasets are reviewed and validated by the contributor, BCO-DMO ensures that the data are archived
+at the appropriate National Data Center (e.g. National Centers for Environmental Information, NCEI).

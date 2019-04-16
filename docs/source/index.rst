@@ -28,7 +28,8 @@ BCO-DMO documentation
    :maxdepth: 2
    :caption: Good Data Management
 
-   DOC_DataManagementPractices
+   DOC_DM_Philosophy
+   DOC_DM_BestPractices
 
 
 

@@ -7,8 +7,7 @@ BCO-DMO documentation
    DOC_About
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Why Data Management?
+   :maxdepth: 3
 
    DOC_DM_Philosophy
 

@@ -86,9 +86,9 @@ html_theme_options = {
     'logo_only': True,
     'collapse_navigation': True,
     'sticky_navigation': True,
-    'navigation_depth': 2,
+    'navigation_depth': 3,
     'includehidden': True,
-    'titles_only': True
+    'titles_only': False
 }
 
 html_logo = 'nstatic/pic_logo_bcodmo.jpg'

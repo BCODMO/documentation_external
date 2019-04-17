@@ -1,6 +1,8 @@
 
 Data Management Plan?
 =====================
+What is a DMP?
+~~~~~~~~~~~~~~~~~~~
 Like everything, good data management starts with a plan before the start of that project.
 
 Proposals submitted to NSF must include a supplementary document of no more
@@ -13,13 +15,13 @@ Investigators working under awards granted by the NSF Division of Ocean Sciences
 the `Division of Ocean Sciences Sample and Data Policy`_.
 
 We can help!
-====================
+~~~~~~~~~~~~~
 BCO-DMO has developed a Data Management Plan template to assist investigators
 in submission of plans that meet the NSF OCE Sample and Data Policy
 requirements. The template can be found and completed on the DMPTool website.
 
 About DMPTool
-=============
+~~~~~~~~~~~~~~
 
 .. image:: nstatic/pic_logo_dmptool1.PNG
    :width: 400px
@@ -46,7 +48,7 @@ also be shared with collaborators. Once complete, your DMP can be exported in
 several different formats for inclusion in your NSF proposal.
 
 Additional Resources
-====================
+~~~~~~~~~~~~~~~~~~~~~~
 More information on NSF’s data management requirements is available on the
 `BCO-DMO website`_. Detailed instructions on how to use BCO-DMO’s DMPTool
 template are also available in our “Getting Started with DMPTool” `guide`_.

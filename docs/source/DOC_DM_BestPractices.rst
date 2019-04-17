@@ -1,25 +1,26 @@
-
+Organising your data
+=====================
 
 
 How should my data look like?
-===============================
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 The lay-out of the data depensd on the genereal structure of that data
 + Tabular data: Ascii
 + Grid/Raster
 + Model output
 
 Tabular data
---------------
+++++++++++++++++
 Tabular data in ASCII, .xls(x)
 
 Grid/Raster data
------------------
++++++++++++++++++
 Parameters - Titles
-====================
+~~~~~~~~~~~~~~~~~~~~
 Unites, description
 
 Date-time parameters
-====================
+~~~~~~~~~~~~~~~~~~~~~~~~
 We strongly encourage to use in GMT and ISO
 
 

@@ -1,4 +1,5 @@
-
+Contributing data
+===================
 This page describes the process for contributing metadata
 and data from appropriate NSF OCE funded projects to the BCO-DMO data system.
 
@@ -11,7 +12,7 @@ be prepared to provide your NSF OCE award number.
 
 
 Evaluate
-========
+~~~~~~~~~
 Is BCO-DMO the right repository for you? BCO-DMO provides data management services at no additional cost to projects funded
 by NSF's Division of Ocean Sciences' Biological and Chemical Oceanography Sections and the
 Division of Polar Programs' Antarctic Organisms & Ecosystems Program.
@@ -50,9 +51,9 @@ Once decided that BCO-DMO is the appropriate repository, you can start contribut
    :align: center
 
 Register
-========
+~~~~~~~~~
 (Collaborative) Project
-~~~~~~~~~~~~~~~~~~~~~~~~~~
++++++++++++++++++++++++++
 A. Search BCO-DMO to see if your award is already in our system. If not:
 
 B. Complete a :download:`Project Metadata Form <https://www.bco-dmo.org/files/bcodmo//PROJECT.rtf>` (.rtf) to provide information about
@@ -68,7 +69,7 @@ B. Complete a :download:`Project Metadata Form <https://www.bco-dmo.org/files/bc
 C. Mail your **NSF Data Management Plan** with the **Project Metadata From** to info@bco-dmo.org.
 
 NSF Designated Program
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
++++++++++++++++++++++++
 A. An NSF designated program describes a large coordinated research program, which usually
    encompass one or more projects. Examples of such programs include U.S. JGOFS, GLOBEC, U.S. OCB and GEOTRACES.
    They are different from the NSF Programs Biological Oceanography and Chemical Oceanography.
@@ -81,12 +82,12 @@ C. Mail your **NSF Data Management Plan**, **Project Metadata Form** and **Progr
 
 
 Prepare
-=======
+~~~~~~~~
 Prepare your data files when they are ready to be submitted. All datasets, projects and deployments submitted
 to BCO-DMO should be contributed along with the appropriate metadata forms.
 
 Data
-~~~~
++++++++++
 A. Complete a :download:`Dataset Metadata Form <https://www.bco-dmo.org/files/bcodmo//DATASET.rtf>` (.rtf) along with your data to provide information about each unique
 dataset collected within a project.
 
@@ -100,7 +101,7 @@ dataset collected within a project.
 
 
 Deployment
-~~~~~~~~~~~
++++++++++++
 If data were collected from a research vessel, mooring, glider, or other unique deployment,
 complete a :download:`Deployment Metadata Form <https://www.bco-dmo.org/files/bcodmo//DEPLOYMENT.rtf>` (.rtf)
 
@@ -114,7 +115,7 @@ complete a :download:`Deployment Metadata Form <https://www.bco-dmo.org/files/bc
 
 
 Submit
-=======
+~~~~~~~
 Send applicable metadata forms and data files to info@bco-dmo.org
 
 * You will receive a reply from one of our Data Managers confirming receipt of
@@ -127,7 +128,7 @@ Send applicable metadata forms and data files to info@bco-dmo.org
 
 
 Collaborate
-===========
+~~~~~~~~~~~~~
 After we receive your data and metadata, a data manager will begin the process of
 making the data available online. We strive to develop **robust metadata** that will
 ensure the data are easily **discoverable and reusable**.
@@ -138,7 +139,7 @@ so your patience and cooperation are greatly appreciated.
 
 
 Validate
-========
+~~~~~~~~~
 Once your datasets are online, you will be asked to review the data and metadata
 for completeness and accuracy. This validation stage is the final step in the process,
 and necessary for assignment of a **DOI** and **long-term archive**.

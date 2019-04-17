@@ -1,5 +1,5 @@
-Why Data Management?
-====================
+The ins and outs of Data Management
+=====================================
 Open Data
 ~~~~~~~~~~
 The inherent value that data hold to the research process cannot be overstated, and existing

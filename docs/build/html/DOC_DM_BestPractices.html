@@ -29,7 +29,7 @@
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Behind the scenes" href="DOC_Technology.html" />
-    <link rel="prev" title="Accessing data" href="DOC_Access-Data.html" /> 
+    <link rel="prev" title="Discovering data" href="DOC_Access-Data.html" /> 
 
   
   <script src="_static/js/modernizr.min.js"></script>
@@ -88,23 +88,37 @@
 <li class="toctree-l1"><a class="reference internal" href="DOC_DM_Philosophy.html">The ins and outs of Data Management</a></li>
 </ul>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="DOC_DataManagementPlan.html">Data Management Plan?</a></li>
+<li class="toctree-l1"><a class="reference internal" href="DOC_DMP.html">Data Management Plan?</a></li>
 </ul>
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="DOC_Contribute.html">Contributing data</a></li>
 </ul>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="DOC_Access-Data.html">Accessing data</a></li>
+<li class="toctree-l1"><a class="reference internal" href="DOC_Access-Data.html">Discovering data</a></li>
 </ul>
 <ul class="current">
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Organising your data</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="#how-should-my-data-look-like">How should my data look like?</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#types-of-datasets">Types of datasets</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#environmental-tabular-data">Environmental tabular data</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#sequencing-data">Sequencing data</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#modelling-and-raster-grid-data">Modelling and raster/grid data</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#formats-of-data">Formats of data</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="#tabular-data">Tabular data</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#grid-raster-data">Grid/Raster data</a></li>
 </ul>
 </li>
-<li class="toctree-l2"><a class="reference internal" href="#parameters-titles">Parameters - Titles</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#controlled-vocabulary">Controlled vocabulary</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#parameters-titles">Parameters - Titles</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#instruments">Instruments</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#locations">Locations</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#date-time-parameters">Date-time parameters</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#large-data">Large data</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#quality-assessment">Quality Assessment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#metadata">Metadata</a></li>
 </ul>
 </li>
 </ul>
@@ -176,29 +190,107 @@
             
   <div class="section" id="organising-your-data">
 <h1>Organising your data<a class="headerlink" href="#organising-your-data" title="Permalink to this headline">¶</a></h1>
-<div class="section" id="how-should-my-data-look-like">
-<h2>How should my data look like?<a class="headerlink" href="#how-should-my-data-look-like" title="Permalink to this headline">¶</a></h2>
-<p>The lay-out of the data depensd on the genereal structure of that data
-+ Tabular data: Ascii
-+ Grid/Raster
-+ Model output</p>
+<div class="section" id="types-of-datasets">
+<h2>Types of datasets<a class="headerlink" href="#types-of-datasets" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="environmental-tabular-data">
+<h3>Environmental tabular data<a class="headerlink" href="#environmental-tabular-data" title="Permalink to this headline">¶</a></h3>
+<p>BCO-DMO can deal with a wide variety of data, including but not limited to biological,
+chemical and physical oceanography measurements and experimental and model results.
+We routinely deal with CTD, biological abundance, meteorological, nutrient, pH, carbonate,
+PAR, sea surface temperature, heat and momentum flux, sediment composition, trace metals,
+primary production, pigment concentration measurements, images and movies.</p>
+</div>
+<div class="section" id="sequencing-data">
+<h3>Sequencing data<a class="headerlink" href="#sequencing-data" title="Permalink to this headline">¶</a></h3>
+<p>While sequence data should be sent to GenBank, sequence accession numbers and the associated
+environmental data can be contributed to BCO-DMO and we can provide the links to the sequence
+repository. This ensures that the data are discoverable from BCO-DMO’s website. Please see
+“Contributing Sequence Accession Numbers” for more information.</p>
+</div>
+<div class="section" id="modelling-and-raster-grid-data">
+<h3>Modelling and raster/grid data<a class="headerlink" href="#modelling-and-raster-grid-data" title="Permalink to this headline">¶</a></h3>
+<p>We’re still developing our strategy for the management of modeling data, but for now,
+we ask submitters to provide the input and output files and code. In this case, we’ll serve
+both the raw output as well as the processed matrices. Please also include documentation with a
+level of detail that makes the code usable and intelligible, including a description of the source
+files, version numbers, and any code configurations, settings, etc. used to generate the results.</p>
+</div>
+</div>
+<div class="section" id="formats-of-data">
+<h2>Formats of data<a class="headerlink" href="#formats-of-data" title="Permalink to this headline">¶</a></h2>
+<p>The most used format data is been submitted to BCO-DMO is tabular data.</p>
 <div class="section" id="tabular-data">
 <h3>Tabular data<a class="headerlink" href="#tabular-data" title="Permalink to this headline">¶</a></h3>
 <p>Tabular data in ASCII, .xls(x)</p>
+<p>A dataset is a logical collection of data files, often organized as one or more tables.
+In the context of BCO-DMO, a dataset might be a series of CTD casts from one or more cruises,
+a table from a publication, a sheet from an Excel file containing the conditions adxfcnd results of
+a controlled experiment, etc. If the column headings for several tables/spreadsheets are the same,
+they can often be combined into a single dataset. A study will often yield multiple tables (datasets)
+associated with it, each requiring its own submission form. You should fill out one dataset
+submission form for each dataset. If you have further questions, don’t hesitate to ask.</p>
+<p>It is important that the data be managed in such a way that they are discoverable and reusable
+by others. This means that there is sufficient metadata to support proper data reuse and that
+the actual data, not just resulting graphs, are accessible.</p>
+<ul class="simple">
+<li>Remove formatting that will not be preserved when exported as a plain text file (e.g. color, merged cells, plots, etc.)</li>
+<li>Only include oen tabular dataset (i.e. table) per Excel sheet</li>
+<li>Ensure cells contain intended values. Check formula results, references to other sheers, hyperlinks etc.</li>
+</ul>
+<p>Good reference articles for data organisation:</p>
+<ul class="simple">
+<li>Data organisation in Excel: <a class="reference external" href="https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989">https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989</a></li>
+<li>Data organisation in spreadsheets for Ecologists: <a class="reference external" href="https://datacarpentry.org/spreadsheet-ecology-lesson/">https://datacarpentry.org/spreadsheet-ecology-lesson/</a></li>
+</ul>
 </div>
 <div class="section" id="grid-raster-data">
 <h3>Grid/Raster data<a class="headerlink" href="#grid-raster-data" title="Permalink to this headline">¶</a></h3>
 </div>
 </div>
+<div class="section" id="controlled-vocabulary">
+<h2>Controlled vocabulary<a class="headerlink" href="#controlled-vocabulary" title="Permalink to this headline">¶</a></h2>
 <div class="section" id="parameters-titles">
-<h2>Parameters - Titles<a class="headerlink" href="#parameters-titles" title="Permalink to this headline">¶</a></h2>
+<h3>Parameters - Titles<a class="headerlink" href="#parameters-titles" title="Permalink to this headline">¶</a></h3>
 <p>Unites, description</p>
+</div>
+<div class="section" id="instruments">
+<h3>Instruments<a class="headerlink" href="#instruments" title="Permalink to this headline">¶</a></h3>
+</div>
+</div>
+<div class="section" id="locations">
+<h2>Locations<a class="headerlink" href="#locations" title="Permalink to this headline">¶</a></h2>
+<p>latitude and longitude of sampling locations</p>
 </div>
 <div class="section" id="date-time-parameters">
 <h2>Date-time parameters<a class="headerlink" href="#date-time-parameters" title="Permalink to this headline">¶</a></h2>
-<p>We strongly encourage to use in GMT and ISO</p>
-<p>Data organisation in Excel: <a class="reference external" href="https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989">https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989</a>
-Data organisation in spreadsheets for Ecologists: <a class="reference external" href="https://datacarpentry.org/spreadsheet-ecology-lesson/">https://datacarpentry.org/spreadsheet-ecology-lesson/</a></p>
+<ul class="simple">
+<li>Document your time and fata format including time zon (e.g. UTC, UTC+02, local EST)</li>
+<li>Check for inconsistent date/time formatting</li>
+<li>In-situ data: include date/time and lat/longer* Experimental data: include data/time of experiments
+if applicable</li>
+<li>ISO datetime?</li>
+</ul>
+</div>
+<div class="section" id="large-data">
+<h2>Large data<a class="headerlink" href="#large-data" title="Permalink to this headline">¶</a></h2>
+<p>For large volumes of data we suggest using Dropbox. Please see <a class="reference external" href="https://www.dropbox.com/">https://www.dropbox.com/</a>.
+If you don’t have your own Dropbox account, a BCO-DMO Data Manager will set up a folder
+for you and send you a URL that will allow you to upload your data into our Dropbox using
+your browser.</p>
+<p>Another option is to make the files available online (ftp, Google Drive, etc.)
+and let us know how to get them.  If you still have questions, please contact us for
+alternative approaches.</p>
+</div>
+<div class="section" id="quality-assessment">
+<h2>Quality Assessment<a class="headerlink" href="#quality-assessment" title="Permalink to this headline">¶</a></h2>
+<p>Level of curation</p>
+</div>
+<div class="section" id="metadata">
+<h2>Metadata<a class="headerlink" href="#metadata" title="Permalink to this headline">¶</a></h2>
+<p>For your data to be reused by other researcher, it needs context, such as where and how it was
+collectedm analysis methods, funding resources, etc. This information is known as metadata. The metadata
+you provide about your data through the form should be thorough, complete and publication ready. The contents of your
+metadata form are directly used to popuate your public Dataset Landing Page.</p>
 </div>
 </div>
 
@@ -213,7 +305,7 @@ Data organisation in spreadsheets for Ecologists: <a class="reference external" 
         <a href="DOC_Technology.html" class="btn btn-neutral float-right" title="Behind the scenes" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="DOC_Access-Data.html" class="btn btn-neutral" title="Accessing data" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="DOC_Access-Data.html" class="btn btn-neutral" title="Discovering data" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   

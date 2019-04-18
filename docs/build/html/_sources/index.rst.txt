@@ -13,7 +13,7 @@ BCO-DMO documentation
 .. toctree::
    :maxdepth: 2
 
-   DOC_DataManagementPlan
+   DOC_DMP
 
 .. toctree::
    :maxdepth: 2

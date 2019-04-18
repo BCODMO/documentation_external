@@ -3,7 +3,7 @@ Data Management Plan?
 =====================
 What is a DMP?
 ~~~~~~~~~~~~~~~~~~~
-Like everything, good data management starts with a plan before the start of that project.
+Like everything, good data management starts with a plan.
 
 Proposals submitted to NSF must include a supplementary document of no more
 than two pages labeled “Data Management Plan” (DMP). This supplementary

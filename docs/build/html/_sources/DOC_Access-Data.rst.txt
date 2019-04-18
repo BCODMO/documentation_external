@@ -1,5 +1,5 @@
-Accessing data
-===============
+Discovering data
+=================
 Once data are processed and published online, the BCO-DMO website enables data discovery
 via text and geospatial search interefaces, making it easy for users to find datasets of
 choice.
@@ -10,12 +10,17 @@ and data may be subsetted, plotted an reformatted prior to download. The BCO-DMO
 the full range of oceanographic measurement types from lomnological, physical, chemical, biological
 and/or ecological and biogeochemical sub-domains
 
-Ways of accessing data
-~~~~~~~~~~~~~~~~~~~~~~~
-+ Searching the database
-+ Using the Geoserver
-
 Citing data and the use of a DOI
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Why is data citation so important?
 BCO-DMO works closely together with DataCite (https://datacite.org/index.html)
+
+
+Available formats
+~~~~~~~~~~~~~~~~~~
+Data can be downloaded from BCO-DMO as tab-, comma-, and space-separated ASCII files,
+Matlab binary files, netCDF format (if the data are amenable to this format), and
+ODV format (if the data are amenable to this format). Data can also be accessed using
+Open Geospatial Consortium’s (OGC) Web Mapping Service (WMS) and Web Feature Service (WFS)
+through our MapServer interface. For more information on finding and downloading data using
+the BCO-DMO data system, please refer to our Data Access Tutorial (PDF).

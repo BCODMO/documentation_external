@@ -146,3 +146,9 @@ and necessary for assignment of a **DOI** and **long-term archive**.
 
 Once datasets are reviewed and validated by the contributor, BCO-DMO ensures that the data are archived
 at the appropriate National Data Center (e.g. National Centers for Environmental Information, NCEI).
+
+Versioning
+~~~~~~~~~~~
+
+Restrictions and embargo
+~~~~~~~~~~~~~~~~~~~~~~~~

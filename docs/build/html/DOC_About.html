@@ -28,7 +28,7 @@
   <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="The ins and outs of Data Management" href="DOC_DM_Philosophy.html" />
+    <link rel="next" title="Basics of Data Management" href="DOC_DM_Philosophy.html" />
     <link rel="prev" title="BCO-DMO documentation" href="index.html" /> 
 
   
@@ -99,19 +99,25 @@
 </li>
 </ul>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="DOC_DM_Philosophy.html">The ins and outs of Data Management</a></li>
+<li class="toctree-l1"><a class="reference internal" href="DOC_DM_Philosophy.html">Basics of Data Management</a></li>
 </ul>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="DOC_DMP.html">Data Management Plan?</a></li>
+<li class="toctree-l1"><a class="reference internal" href="DOC_DMP.html">Starting your data life cylcle: Data Management Plan</a></li>
 </ul>
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="DOC_Contribute.html">Contributing data</a></li>
 </ul>
 <ul>
+<li class="toctree-l1"><a class="reference internal" href="DOC_DM_BestPractices.html">Organising your data</a></li>
+</ul>
+<ul>
 <li class="toctree-l1"><a class="reference internal" href="DOC_Access-Data.html">Discovering data</a></li>
 </ul>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="DOC_DM_BestPractices.html">Organising your data</a></li>
+<li class="toctree-l1"><a class="reference internal" href="DOC_Publishing.html">Publishing and Versioning data</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="DOC_Preservation.html">Preserving data</a></li>
 </ul>
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="DOC_Technology.html">Behind the scenes</a></li>
@@ -184,13 +190,17 @@
 <div class="section" id="intro">
 <h2>Intro<a class="headerlink" href="#intro" title="Permalink to this headline">¶</a></h2>
 <p>The Biological and Chemical Oceanography and Data Management Office (BCO-DMO)
-was created in 2006 to assemble, curate, and publicly serve all data and
-related products resulting from grants funded by the NSF core programs for
-Biological and Chemical Oceanography, and Office of Polar Programs.</p>
-<p>Since that time, a rich database has been built of over 9,000 datasets of diverse data
-types from over 2,600 contributors from physical, chemical, biological and/or
-ecological and biogeochemical sub-domains representing 1,000 funded projects.</p>
-<p>BCO-DMO is primarily funded by an NSF grant (OCE-1031253).</p>
+is a domain-specific repository created to provide data management services to
+researchers funded by the National Science Foundation (NSF) Biological and
+Chemical Oceanography Sections and Office of Polar Programs.</p>
+<p>Since 2006 BCO-DMO has build a rich database containing over 9,000 datasets of
+diverse data types from over 2,600 contributors from physical, chemical,
+biological and/or ecological and biogeochemical sub-domains representing 1,000
+funded projects.</p>
+<p>BCO-DMO is funded by the US National Science Foundation (NSF, award #1435578)
+to curate oceanographic ecosystem sciences data and information products
+resulting from research projects funded within the NSF Division of
+Oceanography.</p>
 </div>
 <div class="section" id="mission">
 <h2>Mission<a class="headerlink" href="#mission" title="Permalink to this headline">¶</a></h2>
@@ -211,6 +221,15 @@ science programs due to its tight coupling to the oceanographic investigators
 and research processes that generate and rely upon data. Sitting in the science
 program allows BCO-DMO to accelerate scientific discovery by working closely
 with researchers to address their data management needs.</p>
+<p>The role of BCO-DMO has been agreed upon and contractracted by our funders,
+and is evidenced by the BCO-DMO project award and by documentation provided
+(by the funder) to the stakeholder community as described in the following NSF
+documents:</p>
+<ul class="simple">
+<li><a class="reference external" href="https://www.nsf.gov/pubs/2017/nsf17037/nsf17037.jsp:">NSF OCE Division Sample and Data Policy (NSF 17-037)</a></li>
+<li><a class="reference external" href="https://www.nsf.gov/geo/oce/oce-data-sample-repository-list.jsp">NSF OCE guidance webpage listing approved data repositories</a></li>
+<li><a class="reference external" href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1435578">BCO-DMO award page</a></li>
+</ul>
 </div>
 <div class="section" id="people">
 <h2>People<a class="headerlink" href="#people" title="Permalink to this headline">¶</a></h2>
@@ -268,8 +287,20 @@ e-mail:  wsass AT whoi.edu, phone: (508) 289-2875</li>
 </div>
 <div class="section" id="partners">
 <h2>Partners<a class="headerlink" href="#partners" title="Permalink to this headline">¶</a></h2>
-<p>Continued development of standards in a transparent way with other partners:</p>
 <ul class="simple">
+<li><strong>DataONE</strong> is an interdisciplinary data aggregator that harvests and
+catalogs BCO-DMO data for increased discovery.</li>
+<li>The <strong>MBL/WHOI Institutional Library</strong> is used to manage dataset publication
+activity (DOI assignment and management of versioned datasets)</li>
+<li><strong>Woods Hole Oceanographic Institution Information Services</strong> provides
+technical assistance for server management and security</li>
+<li><strong>Second Creek Consulting</strong> maintains the existing geospatial
+search interface on the BCO-DMO website.</li>
+<li>The <strong>National Centers for Environmental Information</strong> (NCEI) partners with
+BCO-DMO (via former MOU and recent Submission Agreement
+[need link to our SA with NCEI]) to ensure long-term archive of data curated
+by the office.  Data are automatically pulled from BCO-DMO once
+they are validated and published with a DOI.</li>
 <li>DataCite</li>
 <li>NERC</li>
 <li>IGU</li>
@@ -277,15 +308,19 @@ e-mail:  wsass AT whoi.edu, phone: (508) 289-2875</li>
 </div>
 <div class="section" id="services">
 <h2>Services<a class="headerlink" href="#services" title="Permalink to this headline">¶</a></h2>
-<p>BCO-DMO procides the following services:</p>
+<p>BCO-DMO data managers curate marine research data and information at no cost
+for investigators funded by the same NSF Division that fund BCO-DMO.
+BCO-DMO procides the following services:</p>
 <ul class="simple">
 <li><strong>Proposal</strong>: help with your NSF Data Management Plan</li>
 <li><strong>Acquisition</strong>: Advice on collecting good metadata and data</li>
 <li><strong>Contribution</strong>: Submission to the database, ensuring compliance with the NSF
 OCE Sample and Data Policy. One-on-one assistance with your data Submission</li>
-<li><strong>Data publication</strong>: Datasets are published online at BCO-DMO, citations in just one click, DOI</li>
+<li><strong>Data publication</strong>: Datasets are published online at BCO-DMO, citations in
+just one click, DOI</li>
 <li><strong>Discovery and Access</strong>: BCO-DMO search tools</li>
-<li><strong>Data use and Reuse</strong>: Data are freely accessible, many types of data are available
+<li><strong>Data use and Reuse</strong>: Data are freely accessible, many types of data are
+available
 for new and collaborative research/modelling/synthesis projects.</li>
 <li><strong>Preservation</strong>: BCO-DMO works with the appropriate national data center for
 long-term archiving</li>
@@ -296,22 +331,56 @@ long-term archiving</li>
 <p>BCO-DMO Data Citations, Ownership, and
 Terms and Conditions for Website Use
 Data Set Citation:</p>
-<p>Data set citation should include these key components:
-Principal Investigator (PI) name(s) (VERSION YEAR) title of dataset, data version date, publisher or distributor, date accessed/retrieved by you, DOI or URL of the data set
-Example Data Set Citations:</p>
-<p>Buesseler, K. (2006) “VERTIGO Cruise Event Log.” Biological and Chemical Oceanography Data Management Office (BCO-DMO). Dataset version: 5 September 2006. <a class="reference external" href="http://www.bco-dmo.org/dataset/2957">http://www.bco-dmo.org/dataset/2957</a> [access date]</p>
-<p>Twining, B. (2016). “Element Quotas of Individual Synechococcus Cells Collected During Bermuda Atlantic Time-Series Study (BATS) Cruises Aboard the R/V Atlantic Explorer between 2012-07-11 and 2013-10-13”. Biological and Chemical Oceanography Data Management Office (BCO-DMO) Dataset version 05/06/2016. doi:10.1575/1912/bco-dmo.651474 [access date]
-Ownership Of Website:</p>
-<p>This Website is the property of the Biological and Chemical Oceanography Data Management Office (BCO-DMO) at the Woods Hole Oceanographic Institution (WHOI). BCO-DMO maintains the exclusive right to determine Terms and Conditions for Website use.
-Terms and Conditions for Website Use:</p>
-<p>By using this Website you are agreeing to be bound by these Terms and Conditions. Creative Commons License
-All data sets are licensed under a Creative Commons Attribution 4.0 International License. To make use of data, images or other information it is highly recommended that you contact the original principal investigator (PI). Per the CC BY 4 license it is understood that any use of the data set will properly acknowledge the PI. Should the relevant PI be unavailable, please contact BCO-DMO (<a class="reference external" href="mailto:info&#37;&#52;&#48;bco-dmo&#46;org">info<span>&#64;</span>bco-dmo<span>&#46;</span>org</a>) for additional guidance. You may copy materials for classroom use without contacting the PI so long as the copies contain applicable attribution.
-No Warranty:</p>
-<p>All materials on this Website are made available to BCO-DMO and in turn to you as-is. There is no warranty, expressed or implied, to these materials, their title, accuracy, non-infringement of third party rights, or fitness for any particular purpose, or the performance or results you may obtain from their use.
-Limitation of Liability:</p>
-<p>Under no circumstances shall BCO-DMO or WHOI be liable for any direct, incidental, special, consequential, indirect, or punitive damages that result from the use of, or the inability to use, either this Website or the materials available via this Website. If you are dissatisfied with any Website feature, content or terms of use, your sole and exclusive remedy is to discontinue use.
+<p><strong>Data set citation should include these key components:</strong></p>
+<ul class="simple">
+<li>Principal Investigator (PI) name(s)</li>
+<li>title of dataset</li>
+<li>data version date</li>
+<li>publisher or distributor,</li>
+<li>date accessed/retrieved by you</li>
+<li>DOI or URL of the data set</li>
+</ul>
+<p><em>Example Data Set Citations:</em></p>
+<p>Buesseler, K. (2006) “VERTIGO Cruise Event Log.” Biological and Chemical
+Oceanography Data Management Office (BCO-DMO). Dataset version:
+5 September 2006. <a class="reference external" href="http://www.bco-dmo.org/dataset/2957">http://www.bco-dmo.org/dataset/2957</a> [access date]</p>
+<p>Twining, B. (2016). “Element Quotas of Individual Synechococcus Cells
+Collected During Bermuda Atlantic Time-Series Study (BATS) Cruises Aboard
+the R/V Atlantic Explorer between 2012-07-11 and 2013-10-13”. Biological and
+Chemical Oceanography Data Management Office (BCO-DMO) Dataset version
+05/06/2016. doi:10.1575/1912/bco-dmo.651474 [access date]</p>
+<p><strong>Ownership Of Website:</strong></p>
+<p>This Website is the property of the Biological and Chemical Oceanography Data
+Management Office (BCO-DMO) at the Woods Hole Oceanographic Institution (WHOI).
+BCO-DMO maintains the exclusive right to determine Terms and Conditions for
+Website use.</p>
+<p><strong>Terms and Conditions for Website Use:</strong></p>
+<p>By using this Website you are agreeing to be bound by these Terms and
+Conditions. Creative Commons License All data sets are licensed under a
+Creative Commons Attribution 4.0 International License. To make use of data,
+images or other information it is highly recommended that you contact the
+original principal investigator (PI). Per the CC BY 4 license it is understood
+that any use of the data set will properly acknowledge the PI. Should the
+relevant PI be unavailable, please contact BCO-DMO (<a class="reference external" href="mailto:info&#37;&#52;&#48;bco-dmo&#46;org">info<span>&#64;</span>bco-dmo<span>&#46;</span>org</a>) for
+additional guidance. You may copy materials for classroom use without
+contacting the PI so long as the copies contain applicable attribution.</p>
+<p><strong>No Warranty:</strong></p>
+<p>All materials on this Website are made available to BCO-DMO and in turn to
+you as-is. There is no warranty, expressed or implied, to these materials,
+their title, accuracy, non-infringement of third party rights, or fitness for
+any particular purpose, or the performance or results you may obtain from
+their use.</p>
+<p><strong>Limitation of Liability:</strong></p>
+<p>Under no circumstances shall BCO-DMO or WHOI be liable for any direct,
+incidental, special, consequential, indirect, or punitive damages that
+result from the use of, or the inability to use, either this Website or
+the materials available via this Website. If you are dissatisfied with any
+Website feature, content or terms of use, your sole and exclusive remedy is
+to discontinue use.
 Requests for Trademarks Use:</p>
-<p>“Woods Hole Oceanographic Institution” and “WHOI” are registered trademarks and may not be used for any purpose without the express written permission of the WHOI Media Relations Office, <a class="reference external" href="mailto:media&#37;&#52;&#48;whoi&#46;edu">media<span>&#64;</span>whoi<span>&#46;</span>edu</a></p>
+<p>“Woods Hole Oceanographic Institution” and “WHOI” are registered trademarks
+and may not be used for any purpose without the express written permission
+of the WHOI Media Relations Office, <a class="reference external" href="mailto:media&#37;&#52;&#48;whoi&#46;edu">media<span>&#64;</span>whoi<span>&#46;</span>edu</a></p>
 </div>
 </div>
 
@@ -323,7 +392,7 @@ Requests for Trademarks Use:</p>
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="DOC_DM_Philosophy.html" class="btn btn-neutral float-right" title="The ins and outs of Data Management" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="DOC_DM_Philosophy.html" class="btn btn-neutral float-right" title="Basics of Data Management" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
         <a href="index.html" class="btn btn-neutral" title="BCO-DMO documentation" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>

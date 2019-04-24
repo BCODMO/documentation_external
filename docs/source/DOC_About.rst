@@ -3,15 +3,19 @@ About BCO-DMO
 Intro
 ~~~~~~
 The Biological and Chemical Oceanography and Data Management Office (BCO-DMO)
-was created in 2006 to assemble, curate, and publicly serve all data and
-related products resulting from grants funded by the NSF core programs for
-Biological and Chemical Oceanography, and Office of Polar Programs.
+is a domain-specific repository created to provide data management services to
+researchers funded by the National Science Foundation (NSF) Biological and
+Chemical Oceanography Sections and Office of Polar Programs.
 
-Since that time, a rich database has been built of over 9,000 datasets of diverse data
-types from over 2,600 contributors from physical, chemical, biological and/or
-ecological and biogeochemical sub-domains representing 1,000 funded projects.
+Since 2006 BCO-DMO has build a rich database containing over 9,000 datasets of
+diverse data types from over 2,600 contributors from physical, chemical,
+biological and/or ecological and biogeochemical sub-domains representing 1,000
+funded projects.
 
-BCO-DMO is primarily funded by an NSF grant (OCE-1031253).
+BCO-DMO is funded by the US National Science Foundation (NSF, award #1435578)
+to curate oceanographic ecosystem sciences data and information products
+resulting from research projects funded within the NSF Division of
+Oceanography.
 
 Mission
 ~~~~~~~~
@@ -35,6 +39,18 @@ and research processes that generate and rely upon data. Sitting in the science
 program allows BCO-DMO to accelerate scientific discovery by working closely
 with researchers to address their data management needs.
 
+The role of BCO-DMO has been agreed upon and contractracted by our funders,
+and is evidenced by the BCO-DMO project award and by documentation provided
+(by the funder) to the stakeholder community as described in the following NSF
+documents:
+
++ `NSF OCE Division Sample and Data Policy (NSF 17-037)`_
++ `NSF OCE guidance webpage listing approved data repositories`_
++ `BCO-DMO award page`_
+
+.. _NSF OCE Division Sample and Data Policy (NSF 17-037): https://www.nsf.gov/pubs/2017/nsf17037/nsf17037.jsp:
+.. _NSF OCE guidance webpage listing approved data repositories: https://www.nsf.gov/geo/oce/oce-data-sample-repository-list.jsp
+.. _BCO-DMO award page: https://www.nsf.gov/awardsearch/showAward?AWD_ID=1435578
 
 People
 ~~~~~~~
@@ -89,7 +105,21 @@ Former Staff
 
 Partners
 ~~~~~~~~
-Continued development of standards in a transparent way with other partners:
+
++ **DataONE** is an interdisciplinary data aggregator that harvests and
+  catalogs BCO-DMO data for increased discovery.
++ The **MBL/WHOI Institutional Library** is used to manage dataset publication
+  activity (DOI assignment and management of versioned datasets)
++ **Woods Hole Oceanographic Institution Information Services** provides
+  technical assistance for server management and security
++ **Second Creek Consulting** maintains the existing geospatial
+  search interface on the BCO-DMO website.
++ The **National Centers for Environmental Information** (NCEI) partners with
+  BCO-DMO (via former MOU and recent Submission Agreement
+  [need link to our SA with NCEI]) to ensure long-term archive of data curated
+  by the office.  Data are automatically pulled from BCO-DMO once
+  they are validated and published with a DOI.
+
 
 + DataCite
 + NERC
@@ -97,15 +127,19 @@ Continued development of standards in a transparent way with other partners:
 
 Services
 ~~~~~~~~
+BCO-DMO data managers curate marine research data and information at no cost
+for investigators funded by the same NSF Division that fund BCO-DMO.
 BCO-DMO procides the following services:
 
 * **Proposal**: help with your NSF Data Management Plan
 * **Acquisition**: Advice on collecting good metadata and data
 * **Contribution**: Submission to the database, ensuring compliance with the NSF
   OCE Sample and Data Policy. One-on-one assistance with your data Submission
-* **Data publication**: Datasets are published online at BCO-DMO, citations in just one click, DOI
+* **Data publication**: Datasets are published online at BCO-DMO, citations in
+  just one click, DOI
 * **Discovery and Access**: BCO-DMO search tools
-* **Data use and Reuse**: Data are freely accessible, many types of data are available
+* **Data use and Reuse**: Data are freely accessible, many types of data are
+  available
   for new and collaborative research/modelling/synthesis projects.
 * **Preservation**: BCO-DMO works with the appropriate national data center for
   long-term archiving
@@ -113,31 +147,69 @@ BCO-DMO procides the following services:
 Terms of use
 ~~~~~~~~~~~~~~
 
-
 BCO-DMO Data Citations, Ownership, and
 Terms and Conditions for Website Use
 Data Set Citation:
 
-Data set citation should include these key components:
-Principal Investigator (PI) name(s) (VERSION YEAR) title of dataset, data version date, publisher or distributor, date accessed/retrieved by you, DOI or URL of the data set
-Example Data Set Citations:
+**Data set citation should include these key components:**
 
-Buesseler, K. (2006) "VERTIGO Cruise Event Log." Biological and Chemical Oceanography Data Management Office (BCO-DMO). Dataset version: 5 September 2006. http://www.bco-dmo.org/dataset/2957 [access date]
++ Principal Investigator (PI) name(s)
++ title of dataset
++ data version date
++ publisher or distributor,
++ date accessed/retrieved by you
++ DOI or URL of the data set
 
-Twining, B. (2016). “Element Quotas of Individual Synechococcus Cells Collected During Bermuda Atlantic Time-Series Study (BATS) Cruises Aboard the R/V Atlantic Explorer between 2012-07-11 and 2013-10-13”. Biological and Chemical Oceanography Data Management Office (BCO-DMO) Dataset version 05/06/2016. doi:10.1575/1912/bco-dmo.651474 [access date]
-Ownership Of Website:
+*Example Data Set Citations:*
 
-This Website is the property of the Biological and Chemical Oceanography Data Management Office (BCO-DMO) at the Woods Hole Oceanographic Institution (WHOI). BCO-DMO maintains the exclusive right to determine Terms and Conditions for Website use.
-Terms and Conditions for Website Use:
+Buesseler, K. (2006) "VERTIGO Cruise Event Log." Biological and Chemical
+Oceanography Data Management Office (BCO-DMO). Dataset version:
+5 September 2006. http://www.bco-dmo.org/dataset/2957 [access date]
 
-By using this Website you are agreeing to be bound by these Terms and Conditions. Creative Commons License
-All data sets are licensed under a Creative Commons Attribution 4.0 International License. To make use of data, images or other information it is highly recommended that you contact the original principal investigator (PI). Per the CC BY 4 license it is understood that any use of the data set will properly acknowledge the PI. Should the relevant PI be unavailable, please contact BCO-DMO (info@bco-dmo.org) for additional guidance. You may copy materials for classroom use without contacting the PI so long as the copies contain applicable attribution.
-No Warranty:
+Twining, B. (2016). “Element Quotas of Individual Synechococcus Cells
+Collected During Bermuda Atlantic Time-Series Study (BATS) Cruises Aboard
+the R/V Atlantic Explorer between 2012-07-11 and 2013-10-13”. Biological and
+Chemical Oceanography Data Management Office (BCO-DMO) Dataset version
+05/06/2016. doi:10.1575/1912/bco-dmo.651474 [access date]
 
-All materials on this Website are made available to BCO-DMO and in turn to you as-is. There is no warranty, expressed or implied, to these materials, their title, accuracy, non-infringement of third party rights, or fitness for any particular purpose, or the performance or results you may obtain from their use.
-Limitation of Liability:
 
-Under no circumstances shall BCO-DMO or WHOI be liable for any direct, incidental, special, consequential, indirect, or punitive damages that result from the use of, or the inability to use, either this Website or the materials available via this Website. If you are dissatisfied with any Website feature, content or terms of use, your sole and exclusive remedy is to discontinue use.
+**Ownership Of Website:**
+
+This Website is the property of the Biological and Chemical Oceanography Data
+Management Office (BCO-DMO) at the Woods Hole Oceanographic Institution (WHOI).
+BCO-DMO maintains the exclusive right to determine Terms and Conditions for
+Website use.
+
+**Terms and Conditions for Website Use:**
+
+By using this Website you are agreeing to be bound by these Terms and
+Conditions. Creative Commons License All data sets are licensed under a
+Creative Commons Attribution 4.0 International License. To make use of data,
+images or other information it is highly recommended that you contact the
+original principal investigator (PI). Per the CC BY 4 license it is understood
+that any use of the data set will properly acknowledge the PI. Should the
+relevant PI be unavailable, please contact BCO-DMO (info@bco-dmo.org) for
+additional guidance. You may copy materials for classroom use without
+contacting the PI so long as the copies contain applicable attribution.
+
+**No Warranty:**
+
+All materials on this Website are made available to BCO-DMO and in turn to
+you as-is. There is no warranty, expressed or implied, to these materials,
+their title, accuracy, non-infringement of third party rights, or fitness for
+any particular purpose, or the performance or results you may obtain from
+their use.
+
+**Limitation of Liability:**
+
+Under no circumstances shall BCO-DMO or WHOI be liable for any direct,
+incidental, special, consequential, indirect, or punitive damages that
+result from the use of, or the inability to use, either this Website or
+the materials available via this Website. If you are dissatisfied with any
+Website feature, content or terms of use, your sole and exclusive remedy is
+to discontinue use.
 Requests for Trademarks Use:
 
-“Woods Hole Oceanographic Institution” and “WHOI” are registered trademarks and may not be used for any purpose without the express written permission of the WHOI Media Relations Office, media@whoi.edu
+“Woods Hole Oceanographic Institution” and “WHOI” are registered trademarks
+and may not be used for any purpose without the express written permission
+of the WHOI Media Relations Office, media@whoi.edu

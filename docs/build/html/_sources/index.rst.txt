@@ -28,6 +28,16 @@ BCO-DMO documentation
 .. toctree::
    :maxdepth: 2
 
+   DOC_Publishing
+
+.. toctree::
+   :maxdepth: 2
+
+   DOC_Preservation
+
+.. toctree::
+   :maxdepth: 2
+
    DOC_DM_BestPractices
 
 .. toctree::

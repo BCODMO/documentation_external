@@ -1,9 +1,9 @@
-
-Data Management Plan?
-=====================
-What is a DMP?
-~~~~~~~~~~~~~~~~~~~
-Like everything, good data management starts with a plan.
+Starting your data life cylcle: Data Management Plan
+=====================================================
+What is a Data Management Plan?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The start of the data life cycle is starting with a plan, conveniently called
+a data managenemt plan.
 
 Proposals submitted to NSF must include a supplementary document of no more
 than two pages labeled “Data Management Plan” (DMP). This supplementary

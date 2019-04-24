@@ -14,7 +14,7 @@ Citing data and the use of a DOI
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Why is data citation so important?
 BCO-DMO works closely together with DataCite (https://datacite.org/index.html)
-
+I am adjusting
 
 Available formats
 ~~~~~~~~~~~~~~~~~~

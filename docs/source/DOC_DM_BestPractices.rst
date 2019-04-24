@@ -1,5 +1,8 @@
 Organising your data
 =====================
+Difference between data and metadata? Why so important and what does it need to
+comply to?
+
 Types of datasets
 ~~~~~~~~~~~~~~~~~~
 

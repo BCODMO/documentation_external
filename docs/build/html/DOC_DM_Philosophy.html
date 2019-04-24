@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>The ins and outs of Data Management &mdash; BCO-DMO Documentation 0.0.1 documentation</title>
+  <title>Basics of Data Management &mdash; BCO-DMO Documentation 0.0.1 documentation</title>
   
 
   
@@ -28,7 +28,7 @@
   <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="Data Management Plan?" href="DOC_DMP.html" />
+    <link rel="next" title="Starting your data life cylcle: Data Management Plan" href="DOC_DMP.html" />
     <link rel="prev" title="About BCO-DMO" href="DOC_About.html" /> 
 
   
@@ -85,27 +85,31 @@
 <li class="toctree-l1"><a class="reference internal" href="DOC_About.html">About BCO-DMO</a></li>
 </ul>
 <ul class="current">
-<li class="toctree-l1 current"><a class="current reference internal" href="#">The ins and outs of Data Management</a><ul>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Basics of Data Management</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#open-data">Open Data</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#data-life-cycle">Data Life Cycle</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#fair-principles">FAIR principles</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#unique-identifiers">Unique Identifiers</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#publishing-data">Publishing data</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#preserving-data">Preserving data</a></li>
 </ul>
 </li>
 </ul>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="DOC_DMP.html">Data Management Plan?</a></li>
+<li class="toctree-l1"><a class="reference internal" href="DOC_DMP.html">Starting your data life cylcle: Data Management Plan</a></li>
 </ul>
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="DOC_Contribute.html">Contributing data</a></li>
 </ul>
 <ul>
+<li class="toctree-l1"><a class="reference internal" href="DOC_DM_BestPractices.html">Organising your data</a></li>
+</ul>
+<ul>
 <li class="toctree-l1"><a class="reference internal" href="DOC_Access-Data.html">Discovering data</a></li>
 </ul>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="DOC_DM_BestPractices.html">Organising your data</a></li>
+<li class="toctree-l1"><a class="reference internal" href="DOC_Publishing.html">Publishing and Versioning data</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="DOC_Preservation.html">Preserving data</a></li>
 </ul>
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="DOC_Technology.html">Behind the scenes</a></li>
@@ -154,7 +158,7 @@
     
       <li><a href="index.html">Docs</a> &raquo;</li>
         
-      <li>The ins and outs of Data Management</li>
+      <li>Basics of Data Management</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -173,77 +177,51 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="the-ins-and-outs-of-data-management">
-<h1>The ins and outs of Data Management<a class="headerlink" href="#the-ins-and-outs-of-data-management" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="basics-of-data-management">
+<h1>Basics of Data Management<a class="headerlink" href="#basics-of-data-management" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="open-data">
 <h2>Open Data<a class="headerlink" href="#open-data" title="Permalink to this headline">¶</a></h2>
-<p>The inherent value that data hold to the research process cannot be overstated, and existing
-data hold great potential to <strong>accelerate scientific discovery through reuse once shared</strong>.</p>
-<p>The concept of open data, data that are publicly and freely discoverable, accessible, and reusable,
-has been steadily gaining momentum in the scientific community: “Open data is like a renewable
-energy source: it can be reused without diminishing its original value, and reuse creates new value.” (Science et al., 2017).</p>
-<p>Realizing the value of open data within the scientific research landscape, several
-stakeholders from funders to journal publishers, are driving change in the culture of data
-sharing (Mayernik, 2012, Costas et al., 2013; NSF17-037, 2017; Holdren, 2013). With this shift,
-many digital data repositories have come online to provide data management services that
-meet stakeholder needs for data discovery and access.</p>
-<p>However, in order for data to be reused efficiently and effectively, they must also be
-<strong>well managed and stewarded</strong>. Here, domain-specific repositories add great value to their
-community’s research data by bringing subject matter expertise to the curation process (Lenhert, 2015; ICPSR, 2013).</p>
+<p>The inherent value that data hold to the research process cannot be overstated,
+and existingdata hold great potential to <strong>accelerate scientific discovery
+through reuse once shared</strong>.</p>
+<p>The concept of open data, data that are publicly and freely discoverable,
+accessible, and reusable, has been steadily gaining momentum in the scientific
+community: “Open data is like a renewable energy source: it can be reused
+without diminishing its original value, and reuse creates new value.”
+(Science et al., 2017).</p>
+<p>Realizing the value of open data within the scientific research landscape,
+several stakeholders from funders to journal publishers, are driving change in
+the culture of data sharing (Mayernik, 2012, Costas et al., 2013; NSF17-037, 2017;
+Holdren, 2013). With this shift, many digital data repositories have come
+online to provide data management services that meet stakeholder needs for data
+discovery and access.</p>
+<p>However, in order for data to be reused efficiently and effectively, they must
+also be <strong>well managed and stewarded</strong>. Here, domain-specific repositories add
+great value to their community’s research data by bringing subject matter
+expertise to the curation process (Lenhert, 2015; ICPSR, 2013).</p>
 </div>
 <div class="section" id="data-life-cycle">
 <h2>Data Life Cycle<a class="headerlink" href="#data-life-cycle" title="Permalink to this headline">¶</a></h2>
 <p>Curating and providing open access to research data is a collaborative process.
-This process may be thought of as a life cycles with data passing through various phases.
-Each phase has its own associated actores, roles and critical activities. Good
-data management practices are necessary for all phases, from proposal to preservation.</p>
+This process may be thought of as a life cycles with data passing through
+various phases. Each phase has its own associated actores, roles and critical
+activities. Good data management practices are necessary for all phases, from
+proposal to preservation.</p>
 <a class="reference internal image-reference" href="_images/pic_datalifecycle.PNG"><img alt="This is text" class="align-center" src="_images/pic_datalifecycle.PNG" style="width: 400.0px; height: 250.0px;" /></a>
 </div>
 <div class="section" id="fair-principles">
 <h2>FAIR principles<a class="headerlink" href="#fair-principles" title="Permalink to this headline">¶</a></h2>
-<p>BCO-DMO aligns its data stewardship philosophy with the F.A.I.R. Data Principles (Wilkinson et al, 2016),
-which have gained significant attention within the data management landscape over the recent years. These
-principles outline tangible practices data providers can employ to promote easier sharing and ultimate reuse
-of data by both machines and humans, thereby making them <strong>“Findable, Accessible, Interoperable and Reusable”</strong>.</p>
-<p><em>Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M.,
-Baak, A., Blomberg, N., Boiten, J. W., da Silva Santos, L. B., Bourne, P. E.,
-Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O.,
-Edmunds, S., Evelo, C. T., Finkers, R., Gonzalez-Beltran, A., Gray, A. J.,
-Groth, P., Goble, C., Grethe, J. S., Heringa, J., ‘t Hoen, P. A., Hooft, R.,
-Kuhn, T., Kok, R., Kok, J., Lusher, S. J., Martone, M. E., Mons, A., Packer,
-A. L., Persson, B., Rocca-Serra, P., Roos, M., van Schaik, R., Sansone, S. A.,
-Schultes, E., Sengstag, T., Slater, T., Strawn, G., Swertz, M. A., Thompson, M.,
-van der Lei, J., van Mulligen, E., Velterop, J., Waagmeester, A., Wittenburg, P.,
-Wolstencroft, K., Zhao, J., … Mons, B. (2016). The FAIR Guiding Principles for
-scientific data management and stewardship. Scientific data, 3, 160018.
-doi:10.1038/sdata.2016.18</em></p>
+<p>BCO-DMO aligns its data stewardship philosophy with the F.A.I.R. Data
+Principles [Wilkinson et al, 2016]_ , which have gained significant attention
+within the data management landscape over the recent years. These principles
+outline tangible practices data providers can employ to promote easier sharing
+and ultimate reuse of data by both machines and humans, thereby making
+them <strong>“Findable, Accessible, Interoperable and Reusable”</strong>.</p>
 </div>
 <div class="section" id="unique-identifiers">
 <h2>Unique Identifiers<a class="headerlink" href="#unique-identifiers" title="Permalink to this headline">¶</a></h2>
 <p>ORCID, DOI (handle) and CITATIONS
 <a class="reference external" href="https://guides.lib.berkeley.edu/c.php?g=4385&amp;p=3078010">https://guides.lib.berkeley.edu/c.php?g=4385&amp;p=3078010</a></p>
-</div>
-<div class="section" id="publishing-data">
-<h2>Publishing data<a class="headerlink" href="#publishing-data" title="Permalink to this headline">¶</a></h2>
-<ul class="simple">
-<li>BCO-DMO publishes data and metadata, fostering data discoverability, access, reuse and attribution.</li>
-<li>A DOI is generated for every dataset and will be assigned for all submissions. All datasets must be final
-and validated before a DOI is assigned.</li>
-<li>We provide a recommended <strong>citation</strong>, so that users can proberly cite each dataset.</li>
-<li>All datasets available at BCO-DMO are licensed under a <strong>Creative Commons Attribution 4.0 International
-License</strong>, ensuring that each data contributor will receive proper credit.</li>
-<li>Every DOI is minted for archive by the WHOI Open Access Server (WHOAS), and resolve to WHOAS landing
-pages</li>
-</ul>
-</div>
-<div class="section" id="preserving-data">
-<h2>Preserving data<a class="headerlink" href="#preserving-data" title="Permalink to this headline">¶</a></h2>
-<p>Preservation marks a maturity level that allows to begin the data life cycle again in new research endeavors.
-BCO-DMO serves as a domain specific, intermediate data repository, and as such does not function as a long-term
-archive for data preservation. BCO-DMO provides data management support throughout the period of performance
-of a project award, which prepares project output for reuse and reanalysis by the community. Once a project data
-and metadata are published online at BCO-CMO, they are then submitted to an appropriate national data center
-for long-term preservation (e.g. the National Centers for Environmental Information).</p>
 </div>
 </div>
 
@@ -255,7 +233,7 @@ for long-term preservation (e.g. the National Centers for Environmental Informat
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="DOC_DMP.html" class="btn btn-neutral float-right" title="Data Management Plan?" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="DOC_DMP.html" class="btn btn-neutral float-right" title="Starting your data life cylcle: Data Management Plan" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
         <a href="DOC_About.html" class="btn btn-neutral" title="About BCO-DMO" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>

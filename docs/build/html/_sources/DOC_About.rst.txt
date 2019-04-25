@@ -125,6 +125,30 @@ Partners
 + NERC
 + IGU
 
+Broader outreach of BCO-DMO
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+BCO-DMO is a Member Node of the Data Observation Network for Earth
+(DataONE; https://www.dataone.org/ ), contributing its holdings to the
+DataONE catalog for discovery and use in inter- and cross-disciplinary research.
+The BCO-DMO catalog is also used by the NSF projects: The Center for Dark
+Energy and Biosphere Investigations (CDEBI, https://www.darkenergybiosphere.org/ )
+through display of BCO-DMO datasets relevant to the CDEBI community; and
+PlanetMicrobe (http://www.planetmicrobe.org/) through harvest of BCO-DMO’s
+marine ecosystem data necessary for interpretation of microbial research
+results.  The office is also a charter member and executive committee member
+of the Council of Data Facilities
+(https://www.earthcube.org/group/council-data-facilities), and is a signatory
+of the Coalition for Publishing Data in the Earth and Space Sciences (COPDESS)
+Statement of Commitment (http://www.copdess.org/home/about-copdess/), and the
+Enabling FAIR Data Committment Statement in the Earth, Space, and Environmental
+Sciences (http://www.copdess.org/enabling-fair-data-project/commitment-to-enabling-fair-data-in-the-earth-space-and-environmental-sciences/).
+BCO-DMO is an active member of the Earth Science Information Partners
+(ESIP, https://www.esipfed.org/) and is listed in the Registry of Research
+Data Repositories (https://www.re3data.org/repository/r3d100000012).
+
+
+
+
 Services
 ~~~~~~~~
 BCO-DMO data managers curate marine research data and information at no cost

@@ -72,7 +72,20 @@ usable and intelligible, including a description of the source files, version
 numbers, and any code configurations, settings, etc. used to generate the
 results.
 
+Metadata
+~~~~~~~~~
+Metadata is documentation about the data. It describes the content, quality,
+condition, analysis methods and other characteristics of a dataset. In othere
+words, metadata adds **context** to your data. It **allows data to be discovered,**
+**understood, reused and by other researchers.**
 
+BCO-DMO provides a standardized metadata form that need to be filled in when
+datasets are being submitted. See section "Contribute Data" to find these forms.
+The metadata you provide about your data through the form should be thorough,
+complete and publication ready.
+
+The contents of your **metadata form** are **directly used to popuate your public**
+**Dataset Landing Page.**
 
 
 Standardised vocabulary
@@ -100,22 +113,6 @@ Date-time parameters
   if applicable
 * ISO datetime?
 
-
-
-Metadata
-~~~~~~~~~
-Metadata is documentation about the data. It describes the content, quality,
-condition, analysis methods and other characteristics of a dataset. In othere
-words, metadata adds **context** to your data. It **allows data to be discovered,**
-**understood, reused and by other researchers.**
-
-BCO-DMO provides a standardized metadata form that need to be filled in when
-datasets are being submitted. See section "Contribute Data" to find these forms.
-The metadata you provide about your data through the form should be thorough,
-complete and publication ready.
-
-The contents of your **metadata form** are **directly used to popuate your public**
-**Dataset Landing Page.**
 
 
 Quality Assessment

@@ -65,8 +65,21 @@ them **"Findable, Accessible, Interoperable and Reusable"**.
 
 
 
-Unique Identifiers
-~~~~~~~~~~~~~~~~~~~
+Persistent Identifiers
+~~~~~~~~~~~~~~~~~~~~~~~
+A persistent identifier is a long-lasting reference (unique character string)
+to a digital resource.An identifier is a label which gives a unique name to an
+entity: a person, place, or thing. Unlike URLs, which may break, a persistent
+identifier reliablypoints to a digital entity.
 
-ORCID, DOI (handle) and CITATIONS
-https://guides.lib.berkeley.edu/c.php?g=4385&p=3078010
+An **ORCID** is an example of a persistent identifier for a person.
+
+.. _ORCID: https://orcid.org/
+
+**DOIs** (digital object identifiers) are persistent identifiers for things or
+entities such as journal articles, books, and datasets. Crossref and DataCite
+are the main organizations assigning DOIs for
+these purposes in scholarly communication.
+
+BCO-DMO makes use of these persistent IDs to ensure long lasting "findability"
+of people and datasets.

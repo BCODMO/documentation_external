@@ -1,9 +1,9 @@
-Starting your data life cylcle: Data Management Plan
+Prepare using a Data Management Plan
 =====================================================
 What is a Data Management Plan?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-The start of the data life cycle is starting with a plan, conveniently called
-a data managenemt plan.
+The start of the data life cycle begins with a plan, conveniently called
+a data management plan.
 
 Proposals submitted to NSF must include a supplementary document of no more
 than two pages labeled “Data Management Plan” (DMP). This supplementary
@@ -13,6 +13,8 @@ on the dissemination and sharing of research results.
 Investigators working under awards granted by the NSF Division of Ocean Sciences
 (OCE) have additional conditions to which they must adhere, as described in
 the `Division of Ocean Sciences Sample and Data Policy`_.
+
+.. _Division of Ocean Sciences Sample and Data Policy: https://www.nsf.gov/pubs/2017/nsf17037/nsf17037.jsp
 
 We can help!
 ~~~~~~~~~~~~~
@@ -36,6 +38,8 @@ guidance and links to informational resources and walks researchers through
 the process of generating comprehensive plans tailored to specific DMP
 requirements, in this case, the NSF OCE requirements.
 
+.. _DMPTool: https://dmptool.org/
+
 If you are a researcher from one of the DMPTool partner institutions, you can
 log in using your institutional credentials. If your institution is not a
 partner, you can create your own account using any email address.
@@ -53,7 +57,5 @@ More information on NSF’s data management requirements is available on the
 `BCO-DMO website`_. Detailed instructions on how to use BCO-DMO’s DMPTool
 template are also available in our “Getting Started with DMPTool” `guide`_.
 
-.. _Division of Ocean Sciences Sample and Data Policy: https://www.nsf.gov/pubs/2017/nsf17037/nsf17037.jsp
-.. _DMPTool: https://dmptool.org/
 .. _BCO-DMO website: https://www.bco-dmo.org/nsf-two-page-data-management-plan
 .. _guide: https://dmptool.org/help

@@ -138,6 +138,17 @@ Send applicable metadata forms and data files to info@bco-dmo.org
   any pressing deadlines (e.g. NSF reports, manuscript publication) to provide adequate
   data processing time.
 
+Large data
+++++++++++
+For large volumes of data we suggest using Dropbox. Please see
+https://www.dropbox.com/. If you don't have your own Dropbox account, a
+BCO-DMO Data Manager will set up a folder for you and send you a URL that will
+allow you to upload your data into our Dropbox using your browser.
+
+Another option is to make the files available online (ftp, Google Drive, etc.)
+and let us know how to get them.  If you still have questions, please contact
+us for alternative approaches.
+
 
 Collaborate
 ~~~~~~~~~~~~~

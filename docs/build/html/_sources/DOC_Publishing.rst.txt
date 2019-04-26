@@ -1,5 +1,5 @@
-Publishing and Versioning data
-===============================
+(re) Publishing
+===============
 
 Publishing data
 ~~~~~~~~~~~~~~~~

@@ -1,5 +1,5 @@
-Prepare using a Data Management Plan
-=====================================================
+Preparing using a Data Management Plan
+======================================
 What is a Data Management Plan?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 The start of the data life cycle begins with a plan, conveniently called

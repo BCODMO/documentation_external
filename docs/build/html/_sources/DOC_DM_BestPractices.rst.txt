@@ -1,5 +1,5 @@
-Structuring and QC of data and metadata
-=======================================
+Structuring datasets and metadata
+=================================
 Difference between data and metadata? Why so important and what does it need to
 comply to?
 
@@ -7,50 +7,22 @@ If you are interested in data management, DataOne has on-line education modules
 that can help with data organising https://www.dataone.org/education-modules
 
 
-Organising your data
-~~~~~~~~~~~~~~~~~~~~~
-Here we go in depth on how your data should look like For different types of
-data there is a different outcome.
-
-Types of datasets
-------------------
-
-Environmental tabular data
-++++++++++++++++++++++++++
-BCO-DMO can deal with a wide variety of data, including but not limited to
+Tabular data
+~~~~~~~~~~~~~
+Content tabular data?
+-----------------------------
+The majority of data that BCO-DMO is curating consists of tabular data. The
+range of the **different data types is huge**. It includes, but is not limited by
 biological, chemical and physical oceanography measurements and experimental
 and model results. We routinely deal with CTD, biological abundance,
 meteorological, nutrient, pH, carbonate, PAR, sea surface temperature, heat and
 momentum flux, sediment composition, trace metals, primary production, pigment
 concentration measurements, images and movies.
 
-Sequencing data
-++++++++++++++++
-While sequence data should be sent to GenBank, sequence accession numbers and
-the associated environmental data can be contributed to BCO-DMO and we can
-provide the links to the sequence repository. This ensures that the data are
-discoverable from BCO-DMO's website. Please see
-"Contributing Sequence Accession Numbers" for more information.
-
-Modelling and raster/grid data
-++++++++++++++++++++++++++++++
-We're still developing our strategy for the management of modeling data, but
-for now, we ask submitters to provide the input and output files and code. In
-this case, we'll serve both the raw output as well as the processed matrices.
-Please also include documentation with a level of detail that makes the code
-usable and intelligible, including a description of the source files, version
-numbers, and any code configurations, settings, etc. used to generate the
-results.
-
-
-Formats of data
-----------------
-The most used format data is been submitted to BCO-DMO is tabular data.
-
-
-Tabular data
-+++++++++++++
-Tabular data in ASCII, .xls(x)
+Formatting tabular data
+------------------------
+Tabular data files can consist in different formats: ASCI, .xls(x), .ODS etc.
+These tabular files should be organised and submitted to BCO-DMO per dataset.
 
 A **dataset** is a logical collection of data files, often organized as one or
 more tables. In the context of BCO-DMO, a dataset might be a series of CTD casts
@@ -79,14 +51,36 @@ Good reference articles for data organisation:
 .. _`Data organisation in Excel`: https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
 .. _`Data organisation in spreadsheets for Ecologists`: https://datacarpentry.org/spreadsheet-ecology-lesson/
 
-Grid/Raster data
-++++++++++++++++++
+
+Special cases: Sequence data
+-----------------------------
+While sequence data should be sent to GenBank, sequence accession numbers and
+the associated environmental data can be contributed to BCO-DMO and we can
+provide the links to the sequence repository. This ensures that the data are
+discoverable from BCO-DMO's website. Please see "Contributing Sequence Accession
+Numbers" for more information.
 
 
 
+Modelling and raster/grid data
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+We're still developing our strategy for the management of modeling data, but
+for now, we ask submitters to provide the input and output files and code. In
+this case, we'll serve both the raw output as well as the processed matrices.
+Please also include documentation with a level of detail that makes the code
+usable and intelligible, including a description of the source files, version
+numbers, and any code configurations, settings, etc. used to generate the
+results.
+
+
+
+
+Standardised vocabulary
+~~~~~~~~~~~~~~~~~~~~~~~~
+The importance of standardised vocabulary
 
 Parameters - Titles
---------------------
+---------------------
 Unites, description
 
 Instruments
@@ -97,10 +91,12 @@ Locations
 latitude and longitude of sampling locations
 
 Date-time parameters
----------------------
-* Document your time and fata format including time zon (e.g. UTC, UTC+02, local EST)
+--------------------
+* Document your time and fata format including time zon (e.g. UTC, UTC+02,
+  local EST)
 * Check for inconsistent date/time formatting
-* In-situ data: include date/time and lat/longer* Experimental data: include data/time of experiments
+* In-situ data: include date/time and lat/longer* Experimental data: include
+  data/time of experiments
   if applicable
 * ISO datetime?
 
@@ -127,3 +123,5 @@ Quality Assessment
 Level of curation
 When your data is submitted, a data manager will be assigned that will assess
 if your data complies to the "rules" of Good data management.
+
+Our philosophy about data management is to intrude as little as possible

@@ -1,5 +1,5 @@
-Preserving data
-===============
+Preservation
+============
 A library for your data
 ~~~~~~~~~~~~~~~~~~~~~~~
 Preservation marks a maturity level that allows to begin the data life cycle

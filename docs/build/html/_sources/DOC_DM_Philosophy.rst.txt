@@ -1,5 +1,5 @@
-Basics of Data Management
-=====================================
+Data Management Basics
+======================
 Open Data
 ~~~~~~~~~~
 The inherent value that data hold to the research process cannot be overstated,

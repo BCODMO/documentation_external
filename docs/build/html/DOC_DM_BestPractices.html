@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>Structuring and QC of data and metadata &mdash; BCO-DMO Documentation 0.0.1 documentation</title>
+  <title>Structuring datasets and metadata &mdash; BCO-DMO Documentation 0.0.1 documentation</title>
   
 
   
@@ -29,7 +29,7 @@
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Behind the scenes" href="DOC_Technology.html" />
-    <link rel="prev" title="Preserving data" href="DOC_Preservation.html" /> 
+    <link rel="prev" title="Preservation" href="DOC_Preservation.html" /> 
 
   
   <script src="_static/js/modernizr.min.js"></script>
@@ -85,10 +85,10 @@
 <li class="toctree-l1"><a class="reference internal" href="DOC_About.html">About BCO-DMO</a></li>
 </ul>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="DOC_DM_Philosophy.html">Basics of Data Management</a></li>
+<li class="toctree-l1"><a class="reference internal" href="DOC_DM_Philosophy.html">Data Management Basics</a></li>
 </ul>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="DOC_DMP.html">Prepare using a Data Management Plan</a></li>
+<li class="toctree-l1"><a class="reference internal" href="DOC_DMP.html">Preparing using a Data Management Plan</a></li>
 </ul>
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="DOC_Contribute.html">Contributing data</a></li>
@@ -97,16 +97,21 @@
 <li class="toctree-l1"><a class="reference internal" href="DOC_Access-Data.html">Discovering data</a></li>
 </ul>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="DOC_Publishing.html">Publishing and Versioning data</a></li>
+<li class="toctree-l1"><a class="reference internal" href="DOC_Publishing.html">(re) Publishing</a></li>
 </ul>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="DOC_Preservation.html">Preserving data</a></li>
+<li class="toctree-l1"><a class="reference internal" href="DOC_Preservation.html">Preservation</a></li>
 </ul>
 <ul class="current">
-<li class="toctree-l1 current"><a class="current reference internal" href="#">Structuring and QC of data and metadata</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="#organising-your-data">Organising your data</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="#types-of-datasets">Types of datasets</a></li>
-<li class="toctree-l3"><a class="reference internal" href="#formats-of-data">Formats of data</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Structuring datasets and metadata</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#tabular-data">Tabular data</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#content-tabular-data">Content tabular data?</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#formatting-tabular-data">Formatting tabular data</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#special-cases-sequence-data">Special cases: Sequence data</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#modelling-and-raster-grid-data">Modelling and raster/grid data</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#standardised-vocabulary">Standardised vocabulary</a><ul>
 <li class="toctree-l3"><a class="reference internal" href="#parameters-titles">Parameters - Titles</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#instruments">Instruments</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#locations">Locations</a></li>
@@ -165,7 +170,7 @@
     
       <li><a href="index.html">Docs</a> &raquo;</li>
         
-      <li>Structuring and QC of data and metadata</li>
+      <li>Structuring datasets and metadata</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -184,52 +189,28 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="structuring-and-qc-of-data-and-metadata">
-<h1>Structuring and QC of data and metadata<a class="headerlink" href="#structuring-and-qc-of-data-and-metadata" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="structuring-datasets-and-metadata">
+<h1>Structuring datasets and metadata<a class="headerlink" href="#structuring-datasets-and-metadata" title="Permalink to this headline">¶</a></h1>
 <p>Difference between data and metadata? Why so important and what does it need to
 comply to?</p>
 <p>If you are interested in data management, DataOne has on-line education modules
 that can help with data organising <a class="reference external" href="https://www.dataone.org/education-modules">https://www.dataone.org/education-modules</a></p>
-<div class="section" id="organising-your-data">
-<h2>Organising your data<a class="headerlink" href="#organising-your-data" title="Permalink to this headline">¶</a></h2>
-<p>Here we go in depth on how your data should look like For different types of
-data there is a different outcome.</p>
-<div class="section" id="types-of-datasets">
-<h3>Types of datasets<a class="headerlink" href="#types-of-datasets" title="Permalink to this headline">¶</a></h3>
-<div class="section" id="environmental-tabular-data">
-<h4>Environmental tabular data<a class="headerlink" href="#environmental-tabular-data" title="Permalink to this headline">¶</a></h4>
-<p>BCO-DMO can deal with a wide variety of data, including but not limited to
+<div class="section" id="tabular-data">
+<h2>Tabular data<a class="headerlink" href="#tabular-data" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="content-tabular-data">
+<h3>Content tabular data?<a class="headerlink" href="#content-tabular-data" title="Permalink to this headline">¶</a></h3>
+<p>The majority of data that BCO-DMO is curating consists of tabular data. The
+range of the <strong>different data types is huge</strong>. It includes, but is not limited by
 biological, chemical and physical oceanography measurements and experimental
 and model results. We routinely deal with CTD, biological abundance,
 meteorological, nutrient, pH, carbonate, PAR, sea surface temperature, heat and
 momentum flux, sediment composition, trace metals, primary production, pigment
 concentration measurements, images and movies.</p>
 </div>
-<div class="section" id="sequencing-data">
-<h4>Sequencing data<a class="headerlink" href="#sequencing-data" title="Permalink to this headline">¶</a></h4>
-<p>While sequence data should be sent to GenBank, sequence accession numbers and
-the associated environmental data can be contributed to BCO-DMO and we can
-provide the links to the sequence repository. This ensures that the data are
-discoverable from BCO-DMO’s website. Please see
-“Contributing Sequence Accession Numbers” for more information.</p>
-</div>
-<div class="section" id="modelling-and-raster-grid-data">
-<h4>Modelling and raster/grid data<a class="headerlink" href="#modelling-and-raster-grid-data" title="Permalink to this headline">¶</a></h4>
-<p>We’re still developing our strategy for the management of modeling data, but
-for now, we ask submitters to provide the input and output files and code. In
-this case, we’ll serve both the raw output as well as the processed matrices.
-Please also include documentation with a level of detail that makes the code
-usable and intelligible, including a description of the source files, version
-numbers, and any code configurations, settings, etc. used to generate the
-results.</p>
-</div>
-</div>
-<div class="section" id="formats-of-data">
-<h3>Formats of data<a class="headerlink" href="#formats-of-data" title="Permalink to this headline">¶</a></h3>
-<p>The most used format data is been submitted to BCO-DMO is tabular data.</p>
-<div class="section" id="tabular-data">
-<h4>Tabular data<a class="headerlink" href="#tabular-data" title="Permalink to this headline">¶</a></h4>
-<p>Tabular data in ASCII, .xls(x)</p>
+<div class="section" id="formatting-tabular-data">
+<h3>Formatting tabular data<a class="headerlink" href="#formatting-tabular-data" title="Permalink to this headline">¶</a></h3>
+<p>Tabular data files can consist in different formats: ASCI, .xls(x), .ODS etc.
+These tabular files should be organised and submitted to BCO-DMO per dataset.</p>
 <p>A <strong>dataset</strong> is a logical collection of data files, often organized as one or
 more tables. In the context of BCO-DMO, a dataset might be a series of CTD casts
 from one or more cruises, a table from a publication, a sheet from an Excel file
@@ -251,10 +232,28 @@ sheers, hyperlinks etc.</p>
 <li><a class="reference external" href="https://datacarpentry.org/spreadsheet-ecology-lesson/">Data organisation in spreadsheets for Ecologists</a></li>
 </ul>
 </div>
-<div class="section" id="grid-raster-data">
-<h4>Grid/Raster data<a class="headerlink" href="#grid-raster-data" title="Permalink to this headline">¶</a></h4>
+<div class="section" id="special-cases-sequence-data">
+<h3>Special cases: Sequence data<a class="headerlink" href="#special-cases-sequence-data" title="Permalink to this headline">¶</a></h3>
+<p>While sequence data should be sent to GenBank, sequence accession numbers and
+the associated environmental data can be contributed to BCO-DMO and we can
+provide the links to the sequence repository. This ensures that the data are
+discoverable from BCO-DMO’s website. Please see “Contributing Sequence Accession
+Numbers” for more information.</p>
 </div>
 </div>
+<div class="section" id="modelling-and-raster-grid-data">
+<h2>Modelling and raster/grid data<a class="headerlink" href="#modelling-and-raster-grid-data" title="Permalink to this headline">¶</a></h2>
+<p>We’re still developing our strategy for the management of modeling data, but
+for now, we ask submitters to provide the input and output files and code. In
+this case, we’ll serve both the raw output as well as the processed matrices.
+Please also include documentation with a level of detail that makes the code
+usable and intelligible, including a description of the source files, version
+numbers, and any code configurations, settings, etc. used to generate the
+results.</p>
+</div>
+<div class="section" id="standardised-vocabulary">
+<h2>Standardised vocabulary<a class="headerlink" href="#standardised-vocabulary" title="Permalink to this headline">¶</a></h2>
+<p>The importance of standardised vocabulary</p>
 <div class="section" id="parameters-titles">
 <h3>Parameters - Titles<a class="headerlink" href="#parameters-titles" title="Permalink to this headline">¶</a></h3>
 <p>Unites, description</p>
@@ -269,9 +268,11 @@ sheers, hyperlinks etc.</p>
 <div class="section" id="date-time-parameters">
 <h3>Date-time parameters<a class="headerlink" href="#date-time-parameters" title="Permalink to this headline">¶</a></h3>
 <ul class="simple">
-<li>Document your time and fata format including time zon (e.g. UTC, UTC+02, local EST)</li>
+<li>Document your time and fata format including time zon (e.g. UTC, UTC+02,
+local EST)</li>
 <li>Check for inconsistent date/time formatting</li>
-<li>In-situ data: include date/time and lat/longer* Experimental data: include data/time of experiments
+<li>In-situ data: include date/time and lat/longer* Experimental data: include
+data/time of experiments
 if applicable</li>
 <li>ISO datetime?</li>
 </ul>
@@ -295,6 +296,7 @@ complete and publication ready.</p>
 <p>Level of curation
 When your data is submitted, a data manager will be assigned that will assess
 if your data complies to the “rules” of Good data management.</p>
+<p>Our philosophy about data management is to intrude as little as possible</p>
 </div>
 </div>
 
@@ -309,7 +311,7 @@ if your data complies to the “rules” of Good data management.</p>
         <a href="DOC_Technology.html" class="btn btn-neutral float-right" title="Behind the scenes" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="DOC_Preservation.html" class="btn btn-neutral" title="Preserving data" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="DOC_Preservation.html" class="btn btn-neutral" title="Preservation" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   

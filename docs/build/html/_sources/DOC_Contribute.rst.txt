@@ -1,5 +1,5 @@
-Contributing data
-===================
+Contributing
+============
 When data acquistion and analysis is done, it is time to contribute your data to
 the right repository and ensure correct preservation and reuse of your data.
 

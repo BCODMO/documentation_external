@@ -1,4 +1,4 @@
-Preparing using a Data Management Plan
+Preparing a Data Management Plan
 ======================================
 What is a Data Management Plan?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

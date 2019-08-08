@@ -120,3 +120,118 @@ OCE-funded projects.
   - DataCite
   - NERC
   - IGU
+  
+  # Broader outreach
+
+BCO-DMO is a Member Node of the Data Observation Network for Earth
+(DataONE; <https://www.dataone.org/> ), contributing its holdings to the
+DataONE catalog for discovery and use in inter- and cross-disciplinary
+research.
+
+The BCO-DMO catalog is also used by the NSF projects: \* The Center for
+Dark Energy and Biosphere Investigations (CDEBI,
+<https://www.darkenergybiosphere.org/> ) through display of BCO-DMO
+datasets relevant to the CDEBI community; and \* PlanetMicrobe
+(<http://www.planetmicrobe.org/>) through harvest of BCO-DMO’s marine
+ecosystem data necessary for interpretation of microbial research
+results. The office is also a charter member and executive committee
+member of the Council of Data Facilities
+(<https://www.earthcube.org/group/council-data-facilities>), and is a
+signatory of the Coalition for Publishing Data in the Earth and Space
+Sciences (COPDESS) Statement of Commitment
+(<http://www.copdess.org/home/about-copdess/>), and the Enabling FAIR
+Data Committment Statement in the Earth, Space, and Environmental
+Sciences
+(<http://www.copdess.org/enabling-fair-data-project/commitment-to-enabling-fair-data-in-the-earth-space-and-environmental-sciences/>).
+BCO-DMO is an active member of the Earth Science Information Partners
+(ESIP, <https://www.esipfed.org/>) and is listed in the Registry of
+Research Data Repositories
+(<https://www.re3data.org/repository/r3d100000012>).
+
+# Services
+
+BCO-DMO data managers curate marine research data and information at no
+cost for investigators funded by the same NSF Division that fund
+BCO-DMO. BCO-DMO procides the following services:
+
+  - **Proposal**: help with your NSF Data Management Plan
+  - **Acquisition**: Advice on collecting good metadata and data
+  - **Contribution**: Submission to the database, ensuring compliance
+    with the NSF OCE Sample and Data Policy. One-on-one assistance with
+    your data Submission
+  - **Data publication**: Datasets are published online at BCO-DMO,
+    citations in just one click, DOI
+  - **Discovery and Access**: BCO-DMO search tools
+  - **Data use and Reuse**: Data are freely accessible, many types of
+    data are available for new and collaborative
+    research/modelling/synthesis projects.
+  - **Preservation**: BCO-DMO works with the appropriate national data
+    center for long-term archiving
+
+# Terms of use
+
+BCO-DMO Data Citations, Ownership, and Terms and Conditions for Website
+Use Data Set Citation:
+
+**Data set citation should include these key components:**
+
+  - Principal Investigator (PI) name(s)
+  - title of dataset
+  - data version date
+  - publisher or distributor,
+  - date accessed/retrieved by you
+  - DOI or URL of the data set
+
+*Example Data Set Citations:*
+
+Buesseler, K. (2006) "VERTIGO Cruise Event Log." Biological and Chemical
+Oceanography Data Management Office (BCO-DMO). Dataset version: 5
+September 2006. <http://www.bco-dmo.org/dataset/2957> \[access date\]
+
+Twining, B. (2016). “Element Quotas of Individual Synechococcus Cells
+Collected During Bermuda Atlantic Time-Series Study (BATS) Cruises
+Aboard the R/V Atlantic Explorer between 2012-07-11 and 2013-10-13”.
+Biological and Chemical Oceanography Data Management Office (BCO-DMO)
+Dataset version 05/06/2016. <doi:10.1575/1912/bco-dmo.651474> \[access
+date\]
+
+**Ownership Of Website:**
+
+This Website is the property of the Biological and Chemical Oceanography
+Data Management Office (BCO-DMO) at the Woods Hole Oceanographic
+Institution (WHOI). BCO-DMO maintains the exclusive right to determine
+Terms and Conditions for Website use.
+
+**Terms and Conditions for Website Use:**
+
+By using this Website you are agreeing to be bound by these Terms and
+Conditions. Creative Commons License All data sets are licensed under a
+Creative Commons Attribution 4.0 International License. To make use of
+data, images or other information it is highly recommended that you
+contact the original principal investigator (PI). Per the CC BY 4
+license it is understood that any use of the data set will properly
+acknowledge the PI. Should the relevant PI be unavailable, please
+contact BCO-DMO (<info@bco-dmo.org>) for additional guidance. You may
+copy materials for classroom use without contacting the PI so long as
+the copies contain applicable attribution.
+
+**No Warranty:**
+
+All materials on this Website are made available to BCO-DMO and in turn
+to you as-is. There is no warranty, expressed or implied, to these
+materials, their title, accuracy, non-infringement of third party
+rights, or fitness for any particular purpose, or the performance or
+results you may obtain from their use.
+
+**Limitation of Liability:**
+
+Under no circumstances shall BCO-DMO or WHOI be liable for any direct,
+incidental, special, consequential, indirect, or punitive damages that
+result from the use of, or the inability to use, either this Website or
+the materials available via this Website. If you are dissatisfied with
+any Website feature, content or terms of use, your sole and exclusive
+remedy is to discontinue use. Requests for Trademarks Use:
+
+“Woods Hole Oceanographic Institution” and “WHOI” are registered
+trademarks and may not be used for any purpose without the express
+written permission of the WHOI Media Relations Office, <media@whoi.edu>

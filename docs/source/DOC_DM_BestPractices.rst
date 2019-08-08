@@ -47,10 +47,11 @@ Good reference articles for data organisation:
 
 * `Data organisation in Excel`_
 * `Data organisation in spreadsheets for Ecologists`_
+* `Esip Data management short course`_
 
 .. _`Data organisation in Excel`: https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
 .. _`Data organisation in spreadsheets for Ecologists`: https://datacarpentry.org/spreadsheet-ecology-lesson/
-
+.. _`Esip Data management short course`: http://commons.esipfed.org/datamanagementshortcourse
 
 Special cases: Sequence data
 -----------------------------
@@ -59,6 +60,22 @@ the associated environmental data can be contributed to BCO-DMO and we can
 provide the links to the sequence repository. This ensures that the data are
 discoverable from BCO-DMO's website. Please see "Contributing Sequence Accession
 Numbers" for more information.
+
+In order to link to data at NCBI, please provide BCO-DMO with a list of the 
+sequence accession numbers and associated information describing the sequences. 
+Please include the following information (if applicable):
+
+* species names
+* description of the types of sequences
+* locations where species were collected (including latitude and longitude and 
+  cruise ID numbers, if known/applicable)
+* sequencing and analysis methods (including instrument names and models)
+* any other relevant information that will enable others to understand and 
+  re-use the data (e.g. published papers)
+
+The dataset metadata form can be used to provide the metadata, and the 
+accession numbers and associated information can be provided in a separate 
+spreadsheet, file, or document.
 
 
 
@@ -88,13 +105,40 @@ The contents of your **metadata form** are **directly used to popuate your publi
 **Dataset Landing Page.**
 
 
+
 Standardised vocabulary
 ~~~~~~~~~~~~~~~~~~~~~~~~
-The importance of standardised vocabulary
+BCO-DMO is striving to use standardised vocabulary for dataset **parameters/variables**
+and **instruments** in order to increase the re-use value of the data. Standardised
+paremeters are useful to help other scientist understand the data. 
 
 Parameters - Titles
 ---------------------
-Unites, description
+The parameters reported in the data set need to have names that clearly describe 
+the contents. Ideally, the names should be standardized across files, data sets, 
+and projects, in order that others can readily use the information.
+
+The documentation should contain a full description of the parameter, including 
+the parameter name, how it was measured, the units, and the abbreviation used 
+in the data file.
+
+A missing value code should also be defined. Use the same notation for each 
+missing value in the data set. Use an extreme value (-9999) and do not use 
+character codes in a numeric field. Supply a flag or a tag in a separate field 
+to define briefly the reason for the missing data.
+
+Within the data file use commonly accepted abbreviations for parameter names, 
+for example, Temp for temperature, Precip for precipitation, Lat and Long for 
+latitude and longitude. See the references in the Bibliography for additional 
+examples. Some systems still have length limitations for column names 
+(e.g.13 characters in ArcGIS); lower case column names are generally more 
+transferrable between systems; Space and special characters should not be used 
+in attribute names. Only numbers, letters and underscors (“_”) transfer easily 
+between systems.
+
+Also, be sure to use consistent capitalization (not temp, Temp, and TEMP in 
+the same file).
+
 
 Instruments
 -----------

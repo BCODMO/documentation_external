@@ -34,7 +34,7 @@ The role of BCO-DMO has been agreed upon and contractracted by our funders, and 
 
 ## People
 
-BCO-DMO is fortunate to have six excellent data managers in the group currently who have been selected for their academic background and experience with oceanographic instruments and data types, as well as technical skills of data processing tools and software. This strategy ensures our data managers understand oceanographic concepts, research themes, scientific publications, and the data produced through OCE-funded projects.
+BCO-DMO is fortunate to have excellent data managers in the group currently who have been selected for their academic background and experience with oceanographic instruments and data types, as well as technical skills of data processing tools and software. This strategy ensures our data managers understand oceanographic concepts, research themes, scientific publications, and the data produced through OCE-funded projects.
 
 ### Principal Investigators
 

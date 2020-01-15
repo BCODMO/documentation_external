@@ -73,7 +73,7 @@ BCO-DMO is fortunate to have excellent data managers in the group currently who 
 
   phone: 1-508-289-3977
 
-* Christina Haskins \(, WHOI\) e-mail: haskins AT whoi.edu;
+* Christina Haskins \(Applied Ocean Physics & Engineering, WHOI\) e-mail: haskins AT whoi.edu;
   * phone: 1-508-289-3920
 
 ### Web Site Manager & Application Programmers
